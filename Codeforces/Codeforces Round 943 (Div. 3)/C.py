@@ -14,7 +14,7 @@ if ImportType:
     from heapq import heapify, heappop, heappush, heappushpop
     from typing import Generic, Iterable, Iterator, TypeVar, Union, List
     from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
+    from math import ceil, comb, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
     from decimal import Decimal, getcontext
     from sys import stdin, stdout, setrecursionlimit
 
@@ -38,12 +38,23 @@ def main():
     for _ in range(II()):
         n = II()
         a = LII()
-        cnt = Counter(a)
-        ans = 0
-        for k, v in cnt.items():
-            ans += v // 3
-        print(ans)
 
+        tmp = a[0] + 1
+        ans = [tmp]
+        for i, x in enumerate(a):
+            if i + 1 < n - 1:
+                # print(x, a[i + 1], tmp)
+                if a[i + 1] >= x:
+                    tmp = a[i + 1] // x * tmp + x
+                else:
+                    tmp = x
+            else:
+                if tmp + x > 10 ** 9:
+                    tmp = x
+                else:
+                    tmp += x
+            ans.append(tmp)
+        print(*ans)
     return 
    
 main()

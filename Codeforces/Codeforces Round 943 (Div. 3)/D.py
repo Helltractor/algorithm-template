@@ -14,7 +14,7 @@ if ImportType:
     from heapq import heapify, heappop, heappush, heappushpop
     from typing import Generic, Iterable, Iterator, TypeVar, Union, List
     from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
+    from math import ceil, comb, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
     from decimal import Decimal, getcontext
     from sys import stdin, stdout, setrecursionlimit
 
@@ -36,13 +36,34 @@ if ConstType:
  
 def main():
     for _ in range(II()):
-        n = II()
+        n, k, pb, ps = MII()
+        pb -= 1
+        ps -= 1
+        p = LII()
         a = LII()
-        cnt = Counter(a)
-        ans = 0
-        for k, v in cnt.items():
-            ans += v // 3
-        print(ans)
+        b = 0
+        s = 0
+        bb = 0
+        ss = 0
+        for i in range(n):
+            b = max(b, bb + a[pb] * max(0, k - i))
+            if k > i:
+                bb += a[pb]
+            pb = p[pb] - 1
+            s = max(s, ss + a[ps] * max(0, k - i))
+            if k > i:
+                ss += a[ps]
+            ps = p[ps] - 1
+        # print(b, s)
+        if b < s:
+            print("Sasha")
+        elif b == s:
+            print("Draw")
+        else:
+            print("Bodya")
+
+
+
 
     return 
    

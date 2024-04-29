@@ -8,13 +8,13 @@ if ImportType:
     from io import BytesIO, IOBase
     from types import GeneratorType
     from functools import lru_cache, reduce
-    from bisect import bisect_left, bisect_right
+    from bisect import bisect_left, bisect_right, bisect
     from collections import Counter, defaultdict, deque
     from itertools import accumulate, combinations, permutations
     from heapq import heapify, heappop, heappush, heappushpop
     from typing import Generic, Iterable, Iterator, TypeVar, Union, List
     from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
+    from math import ceil, comb, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
     from decimal import Decimal, getcontext
     from sys import stdin, stdout, setrecursionlimit
 
@@ -36,14 +36,31 @@ if ConstType:
  
 def main():
     for _ in range(II()):
-        n = II()
+        n, q = MII()
         a = LII()
-        cnt = Counter(a)
-        ans = 0
-        for k, v in cnt.items():
-            ans += v // 3
-        print(ans)
+        pre = [RD] * (n + 1)
+        cnt = defaultdict(list)
+        for i, x in enumerate(a, 1):
+            pre[i] = pre[i - 1] ^ x
+        for i in range(n + 1):
+            cnt[pre[i]].append(i)
 
+        # x y x y
+        for _ in range(q):
+            l, r = MII()
+            if pre[r] == pre[l - 1]:
+                print("Yes")
+            else:
+                p = cnt[pre[r]][bisect_left(cnt[pre[r]], l - 1)]
+                if p == r:
+                    print("No")
+                else:
+                    p = bisect_left(cnt[pre[l - 1]], p)
+                    if p == len(cnt[pre[l - 1]]) or cnt[pre[l - 1]][p] >= r:
+                        print("No")
+                    else:
+                        print("Yes")
+        print()
     return 
    
 main()

@@ -14,7 +14,7 @@ if ImportType:
     from heapq import heapify, heappop, heappush, heappushpop
     from typing import Generic, Iterable, Iterator, TypeVar, Union, List
     from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
+    from math import ceil, comb, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
     from decimal import Decimal, getcontext
     from sys import stdin, stdout, setrecursionlimit
 
@@ -35,15 +35,19 @@ if ConstType:
     N = "No"
  
 def main():
+    ans = []
+    for i in range(1, 1000 + 1):
+        res = 0
+        tmp = 0
+        for j in range(1, i):
+            if gcd(i, j) + j > tmp:
+                tmp = gcd(i, j) + j
+                res = j
+        ans.append(res)
     for _ in range(II()):
-        n = II()
-        a = LII()
-        cnt = Counter(a)
-        ans = 0
-        for k, v in cnt.items():
-            ans += v // 3
-        print(ans)
+        x = II()
+        print(ans[x - 1])
 
-    return 
+    return
    
 main()

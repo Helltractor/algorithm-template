@@ -14,7 +14,7 @@ if ImportType:
     from heapq import heapify, heappop, heappush, heappushpop
     from typing import Generic, Iterable, Iterator, TypeVar, Union, List
     from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
+    from math import ceil, comb, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
     from decimal import Decimal, getcontext
     from sys import stdin, stdout, setrecursionlimit
 
@@ -37,13 +37,10 @@ if ConstType:
 def main():
     for _ in range(II()):
         n = II()
-        a = LII()
-        cnt = Counter(a)
-        ans = 0
-        for k, v in cnt.items():
-            ans += v // 3
-        print(ans)
-
+        ans = [(1, 1), (1, 2)] + [(i, i) for i in range(min(n, 3), n)]
+        for i in range(n):
+            print(*ans[i])
+        print()
     return 
    
 main()
