@@ -33,15 +33,30 @@ if ConstType:
     MOD = 998244353
     Y = "Yes"
     N = "No"
- 
+
 def main():
-    for _ in range(II()):
-        n = II()
-        ans = [(1, 1), (1, 2)] + [(i, i) for i in range(min(n, 3), n + 1)]
-        # print(ans)
-        for i in range(n):
-            print(*ans[i])
-        print()
+    n, m = MII()
+    grid = [[] * (n + 1) for _ in range(n + 1)]
+    for _ in range(m):
+        x, y, w = MII()
+        grid[x].append((y, w * 2))
+        grid[y].append((x, w * 2))
+    a = LII()
+    for i, x in enumerate(a, 1):
+        grid[0].append((i, x))
+        grid[i].append((0, x))
+    dis = [10 ** 18] * (n + 1)
+    dis[0] = 0
+    h = [(0, 0)]
+    while h:
+        cost, x = heappop(h)
+        if cost > dis[x]:
+            continue
+        for y, w in grid[x]:
+            if dis[y] > cost + w:
+                dis[y] = cost + w
+                heappush(h, (dis[y], y))
+    print("\n".join(map(str, dis[1:])))
     return 
    
 main()
