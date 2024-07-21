@@ -5,11 +5,11 @@
 - [Kaggle](https://www.kaggle.com/competitions)
 - [Codeforces](https://codeforces.com/contests)   
   - [pypy](__contest__/codeforces/Template/pypy)
--  [AtCoder](https://atcoder.jp/contests/)
+- [AtCoder](https://atcoder.jp/contests/)
 - [LeetCode](https://leetcode.com/contest/)
--  [NowCoder](https://ac.nowcoder.com/)
-    - [pypy](__contest__/nowcode/pypy)
-    - [python](__contest__/nowcode/python)
+- [NowCoder](https://ac.nowcoder.com/)
+  - [pypy](__contest__/nowcode/pypy)
+  - [python](__contest__/nowcode/python)
 
 ## Algorithm Template
 
@@ -53,11 +53,6 @@
 - [Predicted Contests](https://lccn.lbao.site/)
 
 ## ProblemSet
-
-### User
-
-- [EndlessCheng](https://leetcode.cn/u/endlesscheng/)
-- [ProfSnail](https://leetcode.cn/u/profsnail/)
 
 ### Codeforces
 

@@ -10,10 +10,10 @@
 # for i in range(2, n):
 #     if is_prime[i]:
 #         primes.append(i)
-#     for p in primes:
-#         if i * p >= n: break
-#         is_prime[i * p] = False
-#         if i % p == 0: break
+#     for parent in primes:
+#         if i * parent >= n: break
+#         is_prime[i * parent] = False
+#         if i % parent == 0: break
 # primes.extend([n, n])   # 防止下标越界
 
 class Linear:

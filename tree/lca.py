@@ -87,7 +87,7 @@ class Solution:
                 if p != -1:
                     pp = pa[p][i]
                     pa[x][i + 1] = pp
-                    # x -> p; p -> pp merge
+                    # x -> parent; parent -> pp merge
                     for j, (c1, c2) in enumerate(zip(cnt[x][i], cnt[p][i])):
                         cnt[x][i + 1][j] = c1 + c2
 
