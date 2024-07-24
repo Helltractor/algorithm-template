@@ -46,13 +46,14 @@ class PrimesFactor:
     """
     
     def prime_factor(n: int) -> Counter:
-        count = Counter()
+        cnt = Counter()
         d = 2
         while d * d <= n:
             while n % d == 0:
-                count[d] += 1
+                cnt[d] += 1
                 n //= d
             d += 1
         if n > 1:
-            count[n] += 1
-        return count
+            cnt[n] += 1
+        return cnt
+    
