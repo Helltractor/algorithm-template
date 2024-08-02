@@ -1,3 +1,5 @@
+from types import GeneratorType
+
 ImportType = InputType = ConstType = 1
 if ImportType:
     import os, sys, random, threading
@@ -30,33 +32,45 @@ if ConstType:
     inf = 10 ** 18
     Y = "Yes"
     N = "No"
-
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
-def C():
+    
+def D():
     for _ in range(II()):
         n = II()
+        g = [[] for _ in range(n)]
         a = LII()
-        ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+        b = LII()
+        for i, x in enumerate(b, 1):
+            g[x - 1].append(i)
+
+        def check(m):
+            x = max(0, m - a[0])
+            q = deque()
+            for i in g[0]:
+                q.append((i, x - min(0, a[i] - x)))
+            while q:
+                i, pre = q.pop()
+                if len(g[i]) == 0:
+                    if a[i] < pre:
+                        return False
+                    continue
+                if pre > 10 ** 9:
+                    return False
+                for j in g[i]:
+                    next_pre = pre - min(0, a[j] - pre)
+                    q.append((j, next_pre))
+            return True
+        
+        l = 0
+        r = inf
+        while l <= r:
+            m = (l + r) // 2
+            if check(m):
+                l = m + 1
+            else:
+                r = m - 1
+        print(r)
     return
 
 
 if __name__ == '__main__':
-    C()
+    D()

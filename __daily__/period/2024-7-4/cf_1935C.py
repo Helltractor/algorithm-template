@@ -1,3 +1,5 @@
+import unittest
+
 ImportType = InputType = ConstType = 1
 if ImportType:
     import os, sys, random, threading
@@ -30,33 +32,48 @@ if ConstType:
     inf = 10 ** 18
     Y = "Yes"
     N = "No"
-
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
-def C():
+        
+def cf_1935C():
     for _ in range(II()):
-        n = II()
-        a = LII()
-        ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+        n, l = MII()
+        arr = []
+        flag = True
+        for _ in range(n):
+            a, b = MII()
+            arr.append([a, b])
+            if a <= l:
+                flag = False
+        if flag:
+            print(0)
+        else:
+            ans = 1
+            arr.sort(key=lambda x: x[1])
+            # for i, (x, y) in enumerate(arr):
+            #     h = []
+            #     s = 0
+            #     for j in range(i - 1, -1, -1):
+            #         if x + y - arr[j][1] > l:
+            #             break
+            #         s += arr[j][0]
+            #         heappush(h, -arr[j][0])
+            #         while h and x + y - arr[j][1] + s > l:
+            #             s += heappop(h)
+            #         ans = max(ans, len(h) + 1)
+            # print(ans)
+            dp = [inf] * n
+            for i in range(n):
+                dp[i] = arr[i][0] - arr[i][1]
+            for i in range(1, n):
+                mn = dp[i - 1]
+                for j in range(i, n):
+                    pre = dp[j]
+                    dp[j] = mn + arr[j][0]
+                    if dp[j] + arr[j][1] <= l:
+                        ans = i + 1
+                    mn = min(mn, pre)
+            print(ans)
     return
 
 
 if __name__ == '__main__':
-    C()
+    cf_1935C()

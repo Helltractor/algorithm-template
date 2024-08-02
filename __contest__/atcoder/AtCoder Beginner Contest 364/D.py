@@ -31,32 +31,30 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
-def C():
-    for _ in range(II()):
-        n = II()
-        a = LII()
-        ans = 0
-        dp = [0] * n
+
+def D():
+    n, q = MII()
+    a = LII()
+    a.sort()
+    for _ in range(q):
+        b, k = MII()
+        l = 0
+        r = 10 ** 9
+        while l <= r:
+            m = (l + r) // 2
+            lidx = bisect_left(a, b - m)
+            ridx = bisect_right(a, b + m)
+            if ridx - lidx >= k:
+                r = m - 1
+            else:
+                l = m + 1
+        print(l)
+
     
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+    
+    
     return
 
 
 if __name__ == '__main__':
-    C()
+    D()

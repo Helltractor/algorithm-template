@@ -15,7 +15,7 @@ if ImportType:
     from sys import stdin, stdout, setrecursionlimit
 
 if InputType:
-    input = lambda: sys.stdin.readline().rstrip("\r\n")
+    # input = lambda: sys.stdin.readline().rstrip("\r\n")
     I = lambda: input()
     II = lambda: int(input())
     MII = lambda: map(int, input().split())
@@ -31,32 +31,25 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
-def C():
+def cf_1934D2():
+    def f():
+        p, q = MII()
+        return q if int.bit_count(p) % 2 else p
+    
     for _ in range(II()):
         n = II()
-        a = LII()
-        ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+        if int.bit_count(n) % 2:
+            print("second")
+            n = f()
+        else:
+            print("first")
+        while n > 0:
+            hb = 1 << (n.bit_length() - 1)
+            print(n ^ hb, hb)
+            n = f()
+        
     return
 
 
 if __name__ == '__main__':
-    C()
+    cf_1934D2()

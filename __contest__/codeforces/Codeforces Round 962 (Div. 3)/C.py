@@ -31,30 +31,27 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
+
 def C():
     for _ in range(II()):
-        n = II()
-        a = LII()
-        ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+        n, q = MII()
+        a = I()
+        b = I()
+        cntA = [[0] * 26 for _ in range(n + 1)]
+        cntB = [[0] * 26 for _ in range(n + 1)]
+        for i, (x, y) in enumerate(zip(a, b)):
+            cntA[i + 1] = cntA[i][:]
+            cntB[i + 1] = cntB[i][:]
+            cntA[i + 1][ord(x) - 97] = cntA[i][ord(x) - 97] + 1
+            cntB[i + 1][ord(y) - 97] = cntB[i][ord(y) - 97] + 1
+        for _ in range(q):
+            l, r = MII()
+            tmpA = [cntA[r][i] - cntA[l - 1][i] for i in range(26)]
+            tmpB = [cntB[r][i] - cntB[l - 1][i] for i in range(26)]
+            s = 0
+            for i in range(26):
+                s += abs(tmpA[i] - tmpB[i])
+            print(s // 2)
     return
 
 

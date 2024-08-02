@@ -31,32 +31,24 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
-def C():
+
+def E():
     for _ in range(II()):
-        n = II()
-        a = LII()
+        s = I()
+        n = len(s)
+        mod = 10 ** 9 + 7
+        pre = [0] * (n + 1)
         ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+        for i, c in enumerate(s, 1):
+            pre[i] = pre[i - 1] + int(c)
+        cnt = Counter()
+        for i in range(n + 1):
+            cur = i - 2 * pre[i]
+            ans += cnt[cur] * (n - i + 1)
+            cnt[cur] += i + 1
+        print(ans % mod)
     return
 
 
 if __name__ == '__main__':
-    C()
+    E()

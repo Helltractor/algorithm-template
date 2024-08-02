@@ -31,30 +31,33 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
+
 def C():
-    for _ in range(II()):
-        n = II()
-        a = LII()
-        ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+    n, s, t = MII()
+    a = LII()
+    b = LII()
+    c = [(x, y) for x, y in zip(a, b)]
+    c.sort(key=lambda x: -x[0])
+    ss = s
+    tt = t
+    cnt1 = n
+    for i, (x, y) in enumerate(c, 1):
+        ss -= x
+        tt -= y
+        if ss < 0 or tt < 0:
+            cnt1 = i
+            break
+    c.sort(key=lambda x: -x[1])
+    ss = s
+    tt = t
+    cnt2 = n
+    for i, (x, y) in enumerate(c, 1):
+        ss -= x
+        tt -= y
+        if ss < 0 or tt < 0:
+            cnt2 = i
+            break
+    print(min(cnt1, cnt2))
     return
 
 

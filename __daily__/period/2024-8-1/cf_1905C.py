@@ -31,32 +31,33 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-# x ** a < y ** b
-# a * log(x, 2) < b * log(y, 2)
-# log(a, 2) + log(log(x, y), 2) < log(b, 2)
-def C():
+# https://codeforces.com/problemset/problem/1905/C
+def cf_1905C():
     for _ in range(II()):
         n = II()
-        a = LII()
-        ans = 0
-        dp = [0] * n
-    
-        for i, x in enumerate(a[1:], 1):
-            if x == 1:
-                if a[i - 1] > x:
-                    ans = -1
-                    break
-                continue
-            b = log(a[i - 1], x)
-            # c = max(0, dp[i - 1] + int(log2(int(b + 1))) - 5)
-            c = max(0, dp[i - 1] + int(b + 1).bit_length() - 5)
-            while pow(2, c - dp[i - 1]) < b:
-                c += 1
-            dp[i] = c
-            ans += dp[i]
-        print(ans)
+        a = list(I())
+        b = sorted(a)
+        if a == b:
+            print(0)
+            continue
+        st = []
+        for i, c in enumerate(a):
+            while st and a[st[-1]] < c:
+                st.pop()
+            st.append(i)
+        c = a[:]
+        for i in range(len(st) // 2):
+            c[st[i]], c[st[-i - 1]] = c[st[-i - 1]], c[st[i]]
+        if c != b:
+            print(-1)
+            continue
+        m = len(st)
+        for i in st:
+            if a[i] == a[st[0]]:
+                m -= 1
+        print(m)
     return
 
 
 if __name__ == '__main__':
-    C()
+    cf_1905C()
