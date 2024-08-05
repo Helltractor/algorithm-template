@@ -4,14 +4,10 @@
 # @Author : Helltractor
 from collections import Counter
 from heapq import heappop, heappush
-from typing import List
 
-
-# link: https://leetcode.cn/problems/5TxKeK/solutions/2627350/zhuan-huan-zhong-wei-shu-tan-xin-dui-din-7r9b/?envType=daily-question&envId=2024-02-01
 class DualHeap:
-    """对顶堆，实时计算当前集合前k小的元素和(如果k设0,则保持平衡，0<=small-large<=1)。每个操作均摊时间复杂度O(lgn)，总体O(nlgn)。682ms"""
-
     def __init__(self, k=0):
+        """对顶堆，实时计算当前集合前k小的元素和(如果k设0,则保持平衡，0<=small-large<=1)。每个操作均摊时间复杂度O(lgn)，总体O(nlgn)。682ms"""
         self.k = k  # 如果k=0，表示保持两个堆一样大（0<=small-large<=1），此时-small[0]就是中位数
         self.small = []  # 大顶堆存较小的k个数，注意py默认小顶堆，因此需要取反
         self.large = []  # 小顶堆存较大的剩余数
@@ -76,33 +72,3 @@ class DualHeap:
             if v == -small[0]:
                 self.prune(small)
         self.make_balance()
-
-
-class Solution:
-    def numsGame(self, nums: List[int]) -> List[int]:
-        """ans[0]显然是1
-        令d是nums的差分数组，题目转化为：使d[1~n-1]全为1的最小操作次数
-        每次操作，会使a[i]+-1,那么对应d[i]+-1,d[i+1]-+1,相当于某个位置不是1的话，可以从邻近位置借过来，或推走
-        注意到两端可以从界外借位
-        ---------哈哈↑这个思路是错的
-        ---------要用转化+中位数贪心：
-        假设a[0]最终变为x，那么操作次数是|a[0]-x|
-        数组的操作次数是|a[0]-x|+|a[1]+1-x|+|a[2]+2-x|+..+|a[i]+i-x|
-        最小化这个数列即可，转化一下令b[i]=a[i]-i
-        上式变为|b[0]-x|+|b[1]-x|+..+|b[i]-x|
-        熟悉的味道，中位数贪心：所有b[i]到x的距离和最小，那么x取b的中位数
-        这题要每个位置的答案，因此数列要一直变化，那么用对顶堆或者sl维护即可,注意还要维护前后两半的和。
-        """
-
-        dh = DualHeap()
-        s = 0
-        ans = [0] * len(nums)
-        for i, v in enumerate(nums):
-            v -= i
-            s += v
-            dh.add(v)
-            p, q = dh.sum_kth, s - dh.sum_kth  # 两半分别的和
-            mid = -dh.small[0]  # 中位数
-            ans[i] = (mid * dh.small_size - p + q - mid * dh.large_size) % MOD
-
-        return ans

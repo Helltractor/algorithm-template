@@ -4,7 +4,6 @@
 
 from functools import cache
 
-# @Author : Helltractor
 # @link : https://leetcode.cn/problems/count-special-integers/
 # class Solution:
 #     def countSpecialNumbers(self, n: int) -> int:

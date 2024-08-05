@@ -1,5 +1,5 @@
 # _*_ coding: utf-8 _*_
-# @File : SegmentTree.py
+# @File : NodeSegmentTree.py
 # @Time : 2024/6/7 上午11:51
 # @Author : Helltractor
 

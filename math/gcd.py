@@ -1,7 +1,7 @@
 # _*_ coding: utf-8 _*_
 # @File : greatest_common_divisor.py
 # @Time : 2023/11/16 14:44
-# @Author : Helltrackor
+# @Author : Helltractor
 
 # def gcd(a, b):
 #     if b == 0:

@@ -1,7 +1,6 @@
 # _*_ coding: utf-8 _*_
 # @File : FastIO.py
 # @Time : 2024/4/30 21:09
-# @Author : Helltractor
 
 import os
 import sys
