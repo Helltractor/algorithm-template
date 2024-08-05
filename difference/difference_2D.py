@@ -9,14 +9,15 @@ class Difference2D:
         self.n = n
         self.diff = [[0] * (n + 2) for _ in range(m + 2)]
 
-    def add(self, r1, c1, r2, c2, c):  # 下标从0开始，区间+c
+    def add(self, r1, c1, r2, c2, delta):
+        """下标从0开始，区间变化delta"""
         diff = self.diff
-        diff[r1 + 1][c1 + 1] += c
-        diff[r1 + 1][c2 + 2] -= c
-        diff[r2 + 2][c1 + 1] -= c
-        diff[r2 + 2][c2 + 2] += c
+        diff[r1 + 1][c1 + 1] += delta
+        diff[r1 + 1][c2 + 2] -= delta
+        diff[r2 + 2][c1 + 1] -= delta
+        diff[r2 + 2][c2 + 2] += delta
 
-    def get(self):  # 还原
+    def get(self):
         diff = self.diff
         for i in range(1, self.m + 1):
             for j in range(1, self.n + 1):

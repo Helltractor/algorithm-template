@@ -3,10 +3,6 @@
 # @Time : 2024/4/21 19:59
 # @Author : Helltractor
 
-from functools import cache
-
-# @Author : 灵茶山艾府
-# @link : https://leetcode.cn/problems/count-the-number-of-powerful-integers/solutions/2595149/shu-wei-dp-shang-xia-jie-mo-ban-fu-ti-da-h6ci/
 """
     上下边界数位dp模板
     limitHigh 表示当前是否受到了 finish 的约束（我们要构造的数字不能超过 finish。若为真，则第 iii 位填入的数字至多为 finish[i]，否则至多为 9，
@@ -14,13 +10,22 @@ from functools import cache
 
     limitLow 表示当前是否受到了 start 的约束（我们要构造的数字不能低于 start。若为真，则第 i 位填入的数字至少为 start[i]，否则至少为 0，这个数记作 lo。
     如果在受到约束的情况下填了 start[i]，那么后续填入的数字仍会受到 start 的约束。
+    
+    @Author : 灵茶山艾府
+    @link : https://leetcode.cn/problems/count-the-number-of-powerful-integers/solutions/2595149/shu-wei-dp-shang-xia-jie-mo-ban-fu-ti-da-h6ci
 """
+
+from functools import lru_cache
+
+low = int(input())
+high = int(input())
 
 low, high = str(low), str(high)
 n = len(high)
 diff = n - len(low)
 low = '0' * diff + low
 
+@lru_cache(None)
 def dfs(i: int, limit_low: bool, limit_high: bool, is_num: bool) -> int:
     if i == len(high):
         return int(is_num)
