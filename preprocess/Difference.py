@@ -1,23 +1,27 @@
 # _*_ coding: utf-8 _*_
-# @File : difference_2D.py
+# @File : Difference.py
 # @Time : 2023/12/14 13:20
 # @Author : Helltractor
+from typing import List
+
 
 class Difference2D:
+    __slots__ = ["m", "n", "diff"]
+    
     def __init__(self, m, n):
         self.m = m
         self.n = n
         self.diff = [[0] * (n + 2) for _ in range(m + 2)]
-
-    def add(self, r1, c1, r2, c2, delta):
+    
+    def add(self, r1: int, c1: int, r2: int, c2: int, delta: int):
         """下标从0开始，区间变化delta"""
         diff = self.diff
         diff[r1 + 1][c1 + 1] += delta
         diff[r1 + 1][c2 + 2] -= delta
         diff[r2 + 2][c1 + 1] -= delta
         diff[r2 + 2][c2 + 2] += delta
-
-    def get(self):
+    
+    def get(self) -> List[List[int]]:
         diff = self.diff
         for i in range(1, self.m + 1):
             for j in range(1, self.n + 1):

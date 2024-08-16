@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60804908-aef1-4d82-a64d-8a2fd6ce1c5b" name="更改" comment="Update Codeforces Round 964 (Div. 4) coding" />
+    <list default="true" id="60804908-aef1-4d82-a64d-8a2fd6ce1c5b" name="更改" comment="Update algorithm template">
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/abc_253F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/cf_1292A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/cf_1902C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/cf_1946C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/nowcode/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/difference/difference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/difference/difference_2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess/Difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prefix/prefix_sum_2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess/PrefixSum.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +43,8 @@
         <option value="Codeforces Template" />
         <option value="Weekly record" />
         <option value="XML Configuration File" />
-        <option value="Algorithm Template" />
         <option value="Python Script" />
+        <option value="Algorithm Template" />
       </list>
     </option>
   </component>
@@ -47,6 +68,9 @@
     &quot;accountId&quot;: &quot;986d27ca-be72-4057-a4a7-e206645844d9&quot;
   }
 }</component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -87,7 +111,9 @@
     "Python.1929C.executor": "Run",
     "Python.486E.executor": "Run",
     "Python.608B.executor": "Run",
+    "Python.A (1).executor": "Run",
     "Python.A.executor": "Run",
+    "Python.B (1).executor": "Run",
     "Python.B.executor": "Run",
     "Python.B2.executor": "Run",
     "Python.C (1).executor": "Run",
@@ -100,15 +126,19 @@
     "Python.G2.executor": "Run",
     "Python.H1.executor": "Run",
     "Python.abc_249D.executor": "Run",
+    "Python.abc_253F.executor": "Run",
     "Python.abc_359D.executor": "Run",
     "Python.cf_1037C.executor": "Run",
     "Python.cf_1077C.executor": "Run",
+    "Python.cf_1110F.executor": "Run",
     "Python.cf_1167E.executor": "Run",
+    "Python.cf_1292A.executor": "Run",
     "Python.cf_1372B.executor": "Run",
     "Python.cf_1400G.executor": "Run",
     "Python.cf_1670C.executor": "Run",
     "Python.cf_1725M.executor": "Run",
     "Python.cf_1759E.executor": "Run",
+    "Python.cf_1822F.executor": "Run",
     "Python.cf_1840A.executor": "Run",
     "Python.cf_1840B.executor": "Run",
     "Python.cf_1840C.executor": "Run",
@@ -121,6 +151,7 @@
     "Python.cf_1891C.executor": "Run",
     "Python.cf_1893B.executor": "Run",
     "Python.cf_1901C.executor": "Run",
+    "Python.cf_1902C.executor": "Run",
     "Python.cf_1903A.executor": "Run",
     "Python.cf_1903B.executor": "Run",
     "Python.cf_1903C.executor": "Run",
@@ -131,6 +162,7 @@
     "Python.cf_1927D.executor": "Run",
     "Python.cf_1934D2.executor": "Run",
     "Python.cf_1935C.executor": "Run",
+    "Python.cf_1946C.executor": "Run",
     "Python.cf_1950F.executor": "Run",
     "Python.cf_264C.executor": "Run",
     "Python.cf_582B.executor": "Run",
@@ -143,6 +175,8 @@
     "Python.luogu_P5019.executor": "Run",
     "Python.perm.executor": "Run",
     "Python.rename.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
@@ -163,11 +197,11 @@
       <recent name="D:\Python\Algorithm-template\Contests\codeforces\Daily" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Algorithm-Template\preprocess" />
       <recent name="D:\Python\Algorithm-Template\tree\trie" />
       <recent name="D:\Python\Algorithm-Template\tree\segment-tree" />
       <recent name="D:\Python\Algorithm-Template" />
       <recent name="D:\Python\Algorithm-Template\__contest__\codeforces" />
-      <recent name="D:\Python\Algorithm-template\tree\segment-tree" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -185,30 +219,7 @@
       <visibility group="运行配置" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python.F">
-    <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/A.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.B">
     <configuration name="B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm-template" />
       <option name="ENV_FILES" value="" />
@@ -218,12 +229,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="E" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm-template" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,58 +252,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/E.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="F" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/F.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="G2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/G2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/C.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +268,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.F" />
         <item itemvalue="Python.B" />
-        <item itemvalue="Python.A" />
-        <item itemvalue="Python.G2" />
-        <item itemvalue="Python.E" />
+        <item itemvalue="Python.C" />
       </list>
     </recent_temporary>
   </component>
@@ -397,6 +359,12 @@
       <workItem from="1722781478437" duration="13518000" />
       <workItem from="1722945491610" duration="3288000" />
       <workItem from="1722954040444" duration="12642000" />
+      <workItem from="1723006268914" duration="5375000" />
+      <workItem from="1723093076572" duration="2574000" />
+      <workItem from="1723117915095" duration="644000" />
+      <workItem from="1723287593934" duration="15627000" />
+      <workItem from="1723465843445" duration="4085000" />
+      <workItem from="1723724098763" duration="9231000" />
     </task>
     <task id="LOCAL-00001" summary="Upload: codeforces daily 2024-5-27">
       <option name="closed" value="true" />
@@ -638,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722967370501</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Update algorithm template">
+      <option name="closed" value="true" />
+      <created>1723011755910</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1723011755910</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,11 +656,12 @@
     <MESSAGE value="Upload coding in the past half-month" />
     <MESSAGE value="Update some template" />
     <MESSAGE value="Update Codeforces Round 964 (Div. 4) coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Codeforces Round 964 (Div. 4) coding" />
+    <MESSAGE value="Update algorithm template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update algorithm template" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1891C.coverage" NAME="cf_1891C 覆盖结果" MODIFIED="1721287751327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_976C.coverage" NAME="cf_976C 覆盖结果" MODIFIED="1718674848484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1891C.coverage" NAME="cf_1891C 覆盖结果" MODIFIED="1721287751327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_template$.coverage" NAME=" 覆盖结果" MODIFIED="1717242898637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1883F.coverage" NAME="cf_1883F 覆盖结果" MODIFIED="1719288359006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-4" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1725M.coverage" NAME="cf_1725M 覆盖结果" MODIFIED="1720682726963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-2" />
@@ -696,31 +673,39 @@
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1077C.coverage" NAME="cf_1077C 覆盖结果" MODIFIED="1718675139996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840D.coverage" NAME="cf_1840D 覆盖结果" MODIFIED="1719844286331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$F.coverage" NAME="F 覆盖结果" MODIFIED="1718119031953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$abc_253F.coverage" NAME="abc_253F 覆盖结果" MODIFIED="1723094311653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_898D.coverage" NAME="cf_898D 覆盖结果" MODIFIED="1717558772737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/daily/period/2024-6-1" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$D.coverage" NAME="D 覆盖结果" MODIFIED="1722956803083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$D.coverage" NAME="D 覆盖结果" MODIFIED="1723298049195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1822F.coverage" NAME="cf_1822F 覆盖结果" MODIFIED="1723009512297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
     <SUITE FILE_PATH="coverage/Algorithm_template$486E.coverage" NAME="486E 覆盖结果" MODIFIED="1717126302053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$test.coverage" NAME="test 覆盖结果" MODIFIED="1723011274129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1870D.coverage" NAME="cf_1870D 覆盖结果" MODIFIED="1722575155952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1946C.coverage" NAME="cf_1946C 覆盖结果" MODIFIED="1723731451622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1901C.coverage" NAME="cf_1901C 覆盖结果" MODIFIED="1721713719785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-4" />
     <SUITE FILE_PATH="coverage/Algorithm_template$C.coverage" NAME="C 覆盖结果" MODIFIED="1718117172566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840B.coverage" NAME="cf_1840B 覆盖结果" MODIFIED="1719846240131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1758C.coverage" NAME="1758C 覆盖结果" MODIFIED="1716818178707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily/1400" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1926G.coverage" NAME="cf_1926G 覆盖结果" MODIFIED="1718848331861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$C.coverage" NAME="C 覆盖结果" MODIFIED="1722955817402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$C.coverage" NAME="C 覆盖结果" MODIFIED="1723734348718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1929C.coverage" NAME="1929C 覆盖结果" MODIFIED="1716965784419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily/1400" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$abc_359D.coverage" NAME="abc_359D 覆盖结果" MODIFIED="1722947361167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1905C.coverage" NAME="cf_1905C 覆盖结果" MODIFIED="1722570047308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$B.coverage" NAME="B 覆盖结果" MODIFIED="1718116911839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840C.coverage" NAME="cf_1840C 覆盖结果" MODIFIED="1719845018911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1372B.coverage" NAME="cf_1372B 覆盖结果" MODIFIED="1721711879204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-4" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$E.coverage" NAME="E 覆盖结果" MODIFIED="1722960132421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$B.coverage" NAME="B 覆盖结果" MODIFIED="1722967055824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1723287983398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/nowcode" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$E.coverage" NAME="E 覆盖结果" MODIFIED="1723296836657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$B.coverage" NAME="B 覆盖结果" MODIFIED="1723734481987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1902C.coverage" NAME="cf_1902C 覆盖结果" MODIFIED="1723725497609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-3" />
     <SUITE FILE_PATH="coverage/Algorithm_template$A.coverage" NAME="A 覆盖结果" MODIFIED="1718116635379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1110F.coverage" NAME="cf_1110F 覆盖结果" MODIFIED="1723011448220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces" />
     <SUITE FILE_PATH="coverage/Algorithm_template$G.coverage" NAME="G 覆盖结果" MODIFIED="1718768250191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 937 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1903B.coverage" NAME="cf_1903B 覆盖结果" MODIFIED="1719897740342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$comb.coverage" NAME="comb 覆盖结果" MODIFIED="1718937276215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1926F.coverage" NAME="cf_1926F 覆盖结果" MODIFIED="1718851944283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_template$608B.coverage" NAME="608B 覆盖结果" MODIFIED="1716864259532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1670C.coverage" NAME="cf_1670C 覆盖结果" MODIFIED="1720680385428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-2" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1292A.coverage" NAME="cf_1292A 覆盖结果" MODIFIED="1723726819038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1934D2.coverage" NAME="cf_1934D2 覆盖结果" MODIFIED="1722579728389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1927D.coverage" NAME="cf_1927D 覆盖结果" MODIFIED="1720677860743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$G2.coverage" NAME="G2 覆盖结果" MODIFIED="1722965822608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
@@ -735,7 +720,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1893B.coverage" NAME="cf_1893B 覆盖结果" MODIFIED="1721290398935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1037C.coverage" NAME="cf_1037C 覆盖结果" MODIFIED="1722568132837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1950F.coverage" NAME="cf_1950F 覆盖结果" MODIFIED="1718767046793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$A.coverage" NAME="A 覆盖结果" MODIFIED="1722966970041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$A.coverage" NAME="A 覆盖结果" MODIFIED="1723732711218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$H1.coverage" NAME="H1 覆盖结果" MODIFIED="1718125876120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1922C.coverage" NAME="cf_1922C 覆盖结果" MODIFIED="1721285030729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$.coverage" NAME=" 覆盖结果" MODIFIED="1722948695297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
@@ -756,5 +741,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$D__1_.coverage" NAME="D (1) 覆盖结果" MODIFIED="1722395589799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$C__1_.coverage" NAME="C (1) 覆盖结果" MODIFIED="1722082429633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1862E.coverage" NAME="cf_1862E 覆盖结果" MODIFIED="1719372773390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-4" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$A__1_.coverage" NAME="A (1) 覆盖结果" MODIFIED="1723302496587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$B__1_.coverage" NAME="B (1) 覆盖结果" MODIFIED="1723302339034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)" />
   </component>
 </project>
