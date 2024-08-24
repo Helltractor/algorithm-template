@@ -12,6 +12,7 @@ class PrimesFactor:
     @staticmethod
     def count_primes_factor(n: int) -> int:
         """ 统计每个数的质因子的个数"""
+        
         cnt = [0] * n
         for i in range(2, n):
             if cnt[i] == 0:
@@ -22,6 +23,7 @@ class PrimesFactor:
     @staticmethod
     def primes_factor(n: int) -> List[List[int]]:
         """统计每个数的质因子"""
+        
         fac = [[] for _ in range(n)]
         for i in range(2, n):
             if not fac[i]:

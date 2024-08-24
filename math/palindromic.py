@@ -4,12 +4,10 @@
 # @Author : Helltractor
 
 class Palindromic:
-    """回文数"""
 
     @staticmethod
     def convert_by_string():
         """生成所有回文数（字符串转换）"""
-
         pal = []
         MX = 10 ** 5
         for i in range(1, MX):
@@ -22,7 +20,6 @@ class Palindromic:
     @staticmethod
     def convert_by_number():
         """按顺序从小到大生成所有回文数（不用字符串转换）"""
-
         pal = []
         MX = 10 ** 4
         base = 1
@@ -44,3 +41,4 @@ class Palindromic:
             base *= 10
         pal.append(10 ** 8 + 1)     # 哨兵，防止下标越界
         return pal
+    

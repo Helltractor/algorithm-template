@@ -109,7 +109,6 @@ class SortedList:
                 idx = mi
             else:
                 lo = mi
-
         return pos, idx
 
     def _loc_right(self, value):

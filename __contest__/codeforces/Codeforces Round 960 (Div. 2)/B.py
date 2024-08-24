@@ -31,36 +31,6 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
-def test():
-    for _ in range(10000):
-        n = randint(1, 100)
-        x = randint(1, n)
-        y = randint(1, n)
-        if x <= y:
-            continue
-        print(n, x, y)
-        a = [1] * n
-        flag = True
-        for i in range(x, n):
-            if flag:
-                a[i] = -1
-            flag = not flag
-        
-        for i in range(y - 1):
-            a[i] = -1
-            if flag:
-                a[i] = -1
-            flag = not flag
-        pre = [0] * n
-        for i in range(n):
-            pre[i] = pre[i - 1] + a[i]
-        suf = [0] * n
-        for i in range(n - 1, -1, -1):
-            suf[i] = suf[(i + 1) % n] + a[i]
-        print(pre)
-        print(suf)
-        print(*a)
-        print()
         
 def B():
     for _ in range(II()):
@@ -82,4 +52,4 @@ def B():
 
 if __name__ == '__main__':
     B()
-    # test()
+    

@@ -17,6 +17,8 @@
 #     return fac[n] * inv[n - r] % mod if n >= r >= 0 else 0
 
 class Perm:
+    __slots__ = ["mod", "l", "fact", "inv"]
+    
     def __init__(self):
         self.mod = mod = pow(10, 9) + 7
         self.l = l = 3 * pow(10, 5) + 5

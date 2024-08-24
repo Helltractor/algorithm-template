@@ -6,7 +6,7 @@ from collections import defaultdict
 
 
 class Node:
-    __slots__ = 'son', 'is_end'
+    __slots__ = ['son', 'is_end']
 
     def __init__(self):
         # self.son = dict()

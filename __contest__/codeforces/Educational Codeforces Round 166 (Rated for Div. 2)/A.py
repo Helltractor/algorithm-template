@@ -51,7 +51,7 @@ def cf_A():
                     break
                 b.append(c)
         if flag:
-            if ''.join(sorted(b)) == s[: len(b)] and ''.join(sorted(a)) == s[len(b) :]:
+            if ''.join(sorted(b)) == s[: len(b)] and ''.join(sorted(a)) == s[len(b):]:
                 print(Y)
             else:
                 print(N)

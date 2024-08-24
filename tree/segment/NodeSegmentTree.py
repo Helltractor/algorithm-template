@@ -5,6 +5,8 @@
 
 
 class Node:
+    __slots__ = ['ls', 'rs', 'val', 'add']
+    
     def __init__(self) -> None:
         self.ls = self.rs = None
         self.val = False  # bool类型

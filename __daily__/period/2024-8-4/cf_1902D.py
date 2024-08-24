@@ -17,57 +17,11 @@ if ImportType:
     from sys import stdin, stdout, setrecursionlimit
 
 if InputType:
-    class FastIO(IOBase):
-        newlines = 0
-
-        def __init__(self, file):
-            self._fd = file.fileno()
-            self.buffer = BytesIO()
-            self.writable = "x" in file.mode or "r" not in file.mode
-            self.write = self.buffer.write if self.writable else None
-
-        def read(self):
-            while True:
-                b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
-                if not b:
-                    break
-                ptr = self.buffer.tell()
-                self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
-            self.newlines = 0
-            return self.buffer.read()
-
-        def readline(self):
-            while self.newlines == 0:
-                b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
-                self.newlines = b.count(b"\n") + (not b)
-                ptr = self.buffer.tell()
-                self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
-            self.newlines -= 1
-            return self.buffer.readline()
-
-        def flush(self):
-            if self.writable:
-                os.write(self._fd, self.buffer.getvalue())
-                self.buffer.truncate(0), self.buffer.seek(0)
-
-
-    class IOWrapper(IOBase):
-        def __init__(self, file):
-            self.buffer = FastIO(file)
-            self.flush = self.buffer.flush
-            self.writable = self.buffer.writable
-            self.write = lambda s: self.buffer.write(s.encode("ascii"))
-            self.read = lambda: self.buffer.read().decode("ascii")
-            self.readline = lambda: self.buffer.readline().decode("ascii")
-
-    BUFSIZE = 4096
-    sys.stdin = IOWrapper(sys.stdin)
-    sys.stdout = IOWrapper(sys.stdout)
     input = lambda: sys.stdin.readline().rstrip("\r\n")
     I = lambda: input()
     II = lambda: int(input())
     MII = lambda: map(int, input().split())
-    LI = lambda: list(input().split())
+    LI = lambda: list(input())
     LII = lambda: list(map(int, input().split()))
     GMI = lambda: map(lambda x: int(x) - 1, input().split())
     LGMI = lambda: list(map(lambda x: int(x) - 1, input().split()))
@@ -88,13 +42,13 @@ if DecoratorType:
                         if not stack: break
                         to = stack[-1].send(to)
                 return to
-
+        
         return wrappedfunc
 
 if FunctinoType:
     class Math:
         __slots__ = ["mod", "l", "fact", "inv"]
-
+        
         def __init__(self):
             self.mod = mod = 10 ** 9 + 7
             self.l = l = 3 * 10 ** 5 + 5
@@ -105,17 +59,17 @@ if FunctinoType:
             inv[l] = pow(fact[l], mod - 2, mod)
             for i in range(l - 1, -1, -1):
                 inv[i] = inv[i + 1] * (i + 1) % mod
-
+        
         def comb(self, n: int, r: int):
             return self.fact[n] * self.inv[r] % self.mod * self.inv[n - r] % self.mod if n >= r >= 0 else 0
-
+        
         def perm(self, n: int, r: int):
             return self.fact[n] * self.inv[n - r] % self.mod if n >= r >= 0 else 0
-
-
+    
+    
     class PrefixSum2D:
         __slots__ = ["m", "n", "pre"]
-
+        
         def __init__(self, mat: List[List[int]]):
             self.m = m = len(mat)
             self.n = n = len(mat[0])
@@ -123,20 +77,20 @@ if FunctinoType:
             for i, row in enumerate(mat):
                 for j, v in enumerate(row):
                     pre[i + 1][j + 1] = pre[i][j + 1] + pre[i + 1][j] - pre[i][j] + v
-
+        
         def find(self, r1: int, c1: int, r2: int, c2: int) -> int:
             """查询以(r1,c1)为左上角，(r2,c2)为右下角的矩形区间内所有值的和"""
             return self.pre[r2 + 1][c2 + 1] - self.pre[r2 + 1][c1] - self.pre[r1][c2 + 1] + self.pre[r1][c1]
-
-
+    
+    
     class Difference2D:
         __slots__ = ["m", "n", "diff"]
-
+        
         def __init__(self, m, n):
             self.m = m
             self.n = n
             self.diff = [[0] * (n + 2) for _ in range(m + 2)]
-
+        
         def add(self, r1: int, c1: int, r2: int, c2: int, delta: int):
             """下标从0开始，区间变化delta"""
             diff = self.diff
@@ -144,7 +98,7 @@ if FunctinoType:
             diff[r1 + 1][c2 + 2] -= delta
             diff[r2 + 2][c1 + 1] -= delta
             diff[r2 + 2][c2 + 2] += delta
-
+        
         def get(self) -> List[List[int]]:
             diff = self.diff
             for i in range(1, self.m + 1):
@@ -154,20 +108,20 @@ if FunctinoType:
             for i, row in enumerate(diff):
                 diff[i] = row[1:-1]
             return diff
-
-
+    
+    
     class BinaryIndexedTree:
         __slots__ = ["n", "c"]
-
+        
         def __init__(self, n: int):
             self.n = n
             self.c = [0] * (n + 1)
-
+        
         def update(self, x: int, delta: int):
             while x <= self.n:
                 self.c[x] += delta
                 x += x & -x
-
+        
         def query(self, x: int) -> int:
             s = 0
             while x > 0:
@@ -184,12 +138,44 @@ if ConstType:
 
 
 def solve():
+    n, m = MII()
+    s = LI()
+    d = {'U': 0, 'D': 1, 'R': 2, 'L': 3}
+    dct = defaultdict(list)
+    pre = [[0, 0] for _ in range(n + 1)]
+    x, y = 0, 0
+    for i in range(n + 1):
+        j = d[s[i]]
+        x += Direction4[j][0]
+        y += Direction4[j][1]
+        pre[i] = [x, y]
+        dct[(x, y)].append(i)
+    for _ in range(m):
+        x, y, l, r = MII()
+        cur = (x, y)
+        lidx = bisect_left(dct[cur], l)
+        ridx = bisect_left(dct[cur], r)
+        flag = False
+        if lidx > 0 or ridx < len(dct[cur]):
+            flag = True
+        else:
+            # 假设存在i在[l - 1, r]之间
+            # x = pre[r][0] - pre[i][0] + pre[l - 1][0]
+            # y = pre[r][1] - pre[i][1] + pre[l - 1][1]
+            nx = pre[l - 1][0] + pre[r][0] - x
+            ny = pre[l - 1][1] + pre[r][1] - y
+            cur = (nx, ny)
+            idx = bisect_left(dct[cur], l - 1)
+            if idx < len(dct[cur]) and dct[cur][idx] <= r:
+                flag = True
+        print(Y if flag else N)
     pass
 
 
-def main():
-    solve()
+def cf_1902D() -> None:
+    for _ in range(1):
+        solve()
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == '__main__':
+    cf_1902D()

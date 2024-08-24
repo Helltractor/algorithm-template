@@ -47,7 +47,7 @@ class Primes:
     
     @staticmethod
     def primes_linear(n: int) -> int:
-        """线性筛"""
+        """线性（欧拉）筛"""
         primes = []
         is_prime = [False] * 2 + [True] * (n - 2)
         for i in range(2, n):
@@ -76,18 +76,20 @@ class Primes:
 
 class MyTestCase(unittest.TestCase):
     
-    n = pow(2, 16)
+    n = 3 * pow(10, 6)
     
     def test_primes_linear(self):
         start_time = time.time()
-        Primes.primes_linear(self.n)
+        primes = Primes.primes_linear(self.n)
+        print(len(primes), primes)
         end_time = time.time()
         print('primes_linear:', end_time - start_time)
         return
     
     def test_primes_ealich(self):
         start_time = time.time()
-        Primes.primes_ealich(self.n)
+        primes = Primes.primes_ealich(self.n)
+        print(len(primes), primes)
         end_time = time.time()
         print('primes_ealich:', end_time - start_time)
         return
@@ -105,8 +107,4 @@ class MyTestCase(unittest.TestCase):
         end_time = time.time()
         print('primes_enumeration_plus:', end_time - start_time)
         return
-
-
-if __name__ == '__main__':
-    unittest.main()
     

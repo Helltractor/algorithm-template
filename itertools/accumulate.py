@@ -6,7 +6,7 @@ import operator
 import unittest
 
 
-class MyTest(unittest.TestCase):
+class MyTestCase(unittest.TestCase):
     def test_accumulate(self):
         self.assertEqual(list(accumulate(range(10))), [0, 1, 3, 6, 10, 15, 21, 28, 36, 45])
         self.assertEqual(list(accumulate(range(10), initial=1)), [1, 1, 2, 4, 7, 11, 16, 22, 29, 37, 46])

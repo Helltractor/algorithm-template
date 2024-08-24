@@ -5,6 +5,7 @@
 from collections import Counter
 from heapq import heappop, heappush
 
+
 class DualHeap:
     def __init__(self, k=0):
         """对顶堆，实时计算当前集合前k小的元素和(如果k设0,则保持平衡，0<=small-large<=1)。每个操作均摊时间复杂度O(lgn)，总体O(nlgn)。682ms"""
@@ -15,7 +16,7 @@ class DualHeap:
         self.sum_kth = 0  # 前k小数字的和
         self.small_size = 0
         self.large_size = 0
-
+    
     def prune(self, h):
         """修剪h，使h堆顶的已标记删除元素全部弹出"""
         delay_rm = self.delay_rm
@@ -29,7 +30,7 @@ class DualHeap:
                 heappop(h)
             else:
                 break
-
+    
     def make_balance(self):
         """调整small和large的大小，使small中达到k个（或清空large）"""
         k = self.k or (self.small_size + self.large_size + 1) // 2  # 如果self.k是0，表示前后要balance
@@ -45,7 +46,7 @@ class DualHeap:
             self.small_size += 1
             self.large_size -= 1
             self.prune(self.large)
-
+    
     def add(self, v):
         """添加值v，判断需要加到哪个堆"""
         small = self.small
@@ -57,7 +58,7 @@ class DualHeap:
             heappush(self.large, v)
             self.large_size += 1
         self.make_balance()
-
+    
     def remove(self, v):
         """移除v，延时删除，但可以实时判断是否贡献了前k和"""
         small, large = self.small, self.large

@@ -26,15 +26,16 @@ if InputType:
     GMI = lambda: map(lambda x: int(x) - 1, input().split())
     LGMI = lambda: list(map(lambda x: int(x) - 1, input().split()))
     sys.setrecursionlimit(20000)
-    
+
 if ConstType:
     RD = random.randint(10 ** 9, 2 * 10 ** 9)
     MOD = 998244353
     inf = 10 ** 18
     Y = "Yes"
     N = "No"
-    
-# class MyTest(unittest.TestCase):
+
+
+# class MyTestCase(unittest.TestCase):
 #
 #     def testcase(self):
 #         for _ in range(10000):
@@ -103,7 +104,7 @@ if ConstType:
 #             return res
 #         ans = dfs(n-1, 0)
 #         return ans
-    
+
 # https://atcoder.jp/contests/abc359/tasks/abc359_d
 def abc_359D():
     n, k = MII()
@@ -116,8 +117,9 @@ def abc_359D():
                 break
         else:
             pal[i] = True
-        
+    
     mask = (1 << (k - 1)) - 1
+    
     @lru_cache(None)
     def dfs(i, j):
         if i < 0:
@@ -131,6 +133,7 @@ def abc_359D():
                 res += dfs(i - 1, tmp & mask)
         res %= MOD
         return res
+    
     print(dfs(n - 1, 0))
     return
 
