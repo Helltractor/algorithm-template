@@ -3,6 +3,7 @@ DecoratorType = FunctinoType = 1
 if ImportType:
     import os, sys, random, threading
     from copy import deepcopy
+    from io import BytesIO, IOBase
     from decimal import Decimal, getcontext
     from random import randint, choice, shuffle
     from types import GeneratorType
@@ -13,7 +14,7 @@ if ImportType:
     from heapq import heapify, heappop, heappush, heappushpop
     from typing import Generic, Iterable, Iterator, TypeVar, Union, List
     from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, comb, floor, sqrt, pi, factorial, gcd, log, log10, log2, inf
+    from math import gcd
     from sys import stdin, stdout, setrecursionlimit
 
 if InputType:
@@ -67,7 +68,7 @@ if InputType:
     I = lambda: input()
     II = lambda: int(input())
     MII = lambda: map(int, input().split())
-    LI = lambda: list(input().split())
+    LI = lambda: list(input())
     LII = lambda: list(map(int, input().split()))
     GMI = lambda: map(lambda x: int(x) - 1, input().split())
     LGMI = lambda: list(map(lambda x: int(x) - 1, input().split()))

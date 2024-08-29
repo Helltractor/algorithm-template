@@ -1,6 +1,4 @@
-ImportType = 1
-InputType = 1
-ConstType = 1
+ImportType = InputType = ConstType = 1
 if ImportType:
     import os, sys, random, threading
     # sys.exit() 退出程序

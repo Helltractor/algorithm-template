@@ -1,8 +1,6 @@
 import heapq
 
-ImportType = 1
-InputType = 1
-ConstType = 1
+ImportType = InputType = ConstType = 1
 if ImportType:
     import os, sys, random, threading
     from random import randint, choice, shuffle

@@ -1,6 +1,4 @@
-ImportType = 1
-InputType = 1
-ConstType = 1
+ImportType = InputType = ConstType = 1
 if ImportType:
     import os, re, random, sys
     from math import gcd, lcm, comb
