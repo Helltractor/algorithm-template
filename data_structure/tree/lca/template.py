@@ -42,8 +42,7 @@ class LowestCommonAncestor:
         """返回 x 和 y 的最近公共祖先（节点编号从 0 开始）"""
         if self.depth[x] > self.depth[y]:
             x, y = y, x
-        # 使 y 和 x 在同一深度
-        y = self.get_kth_ancestor(y, self.depth[y] - self.depth[x])
+        y = self.get_kth_ancestor(y, self.depth[y] - self.depth[x]) # 使 y 和 x 在同一深度
         if y == x:
             return x
         for i in range(len(self.pa[x]) - 1, -1, -1):
@@ -51,3 +50,4 @@ class LowestCommonAncestor:
             if px != py:
                 x, y = px, py  # 同时上跳 2**i 步
         return self.pa[x][0]
+    
