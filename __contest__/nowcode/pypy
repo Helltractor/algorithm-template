@@ -35,7 +35,7 @@ if InputType:
                 ptr = self.buffer.tell()
                 self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
             self.newlines = 0
-            return self.buffer.read()
+             self.buffer.read()
 
         def readline(self):
             while self.newlines == 0:
@@ -188,9 +188,5 @@ def solve():
     pass
 
 
-def main():
-    solve()
-
-
 if __name__ == "__main__":
-    main()
+    solve()

@@ -135,8 +135,9 @@ if ConstType:
     Direction8 = [(0, 1), (0, -1), (1, 0), (-1, 0), (1, 1), (1, -1), (-1, 1), (-1, -1)]  # ->, <-, v, ^, ↘, ↙, ↗, ↖
     Y, N = "Yes", "No"
 
+
 # https://atcoder.jp/contests/abc253/tasks/abc253_f
-def solve():
+def ABC253F():
     n, m, q = MII()
     queries = [LII() for _ in range(q)]
     bit = BinaryIndexedTree(m)
@@ -165,13 +166,6 @@ def solve():
     for i, query in enumerate(queries):
         if query[0] == 3:
             print(ans[i])
-    return
-
-
-def ABC253F():
-    for _ in range(1):
-        solve()
-    return
 
 
 if __name__ == '__main__':

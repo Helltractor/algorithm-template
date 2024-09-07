@@ -5,178 +5,260 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60804908-aef1-4d82-a64d-8a2fd6ce1c5b" name="更改" comment="Update some changes and upload coding in the past week">
-      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF1714D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF938D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1165E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1878F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1884D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF251A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF576A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF1354B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF760B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1343C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1796D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1843E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF486E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF608B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF1873F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF264C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF650D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF898D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF985C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1362C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1364B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1879D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1077C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1400G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1950F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF976C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1759E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1862E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1883F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1849D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1670C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1725M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1927D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF582B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1167E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1891C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1893B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1922C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/LGP5019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1372B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1901C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1935C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1037C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1870D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1905C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC249D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC253F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC359D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/CF1822F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1292A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1902C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1946C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1227G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1468J.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1875C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1902D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1937B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1650G.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1698C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1736B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1747C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1765K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1788C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1955C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF622C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/LGP1144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF115B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF1969C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF213B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF437C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF593B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF858D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/period/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1728C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1758C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1772D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1929C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__daily__/rating/1600/CF453A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-1/cf_1714D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-1/cf_938D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/cf_1165E.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/cf_1878F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/cf_1884D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/cf_251A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/cf_576A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/cf_1343C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/cf_1796D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/cf_1843E.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/cf_486E.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/cf_608B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/cf_1873F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/cf_264C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/cf_650D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/cf_898D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/cf_985C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/cf_1077C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/cf_1400G.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/cf_1926F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/cf_1926G.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/cf_1950F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/cf_976C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/cf_1759E.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/cf_1862E.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/cf_1883F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1840A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1840B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1840C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1840D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1849D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1903A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1903B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/cf_1903C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/cf_1670C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/cf_1725M.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/cf_1927D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/cf_582B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/cf_1167E.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/cf_1891C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/cf_1893B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/cf_1922C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/luogu_P5019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/cf_1372B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/cf_1901C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/cf_1935C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/cf_1037C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/cf_1870D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/cf_1905C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/cf_1934D1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/cf_1934D2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/abc_249D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/abc_253F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/abc_359D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/cf_1822F.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/cf_1292A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/cf_1902C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/cf_1946C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/cf_1227G.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/cf_1468J.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/cf_1875C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/cf_1902D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/cf_1937B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1650G.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1698C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1736B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1747C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1765K.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1788C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_1955C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/cf_622C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/luogu_P1144.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/cf_115B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/cf_437C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/cf_1728C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/cf_1758C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/cf_1772D.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/cf_1929C.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1600/cf_453A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 364/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 937 (Div. 4)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 937 (Div. 4)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 937 (Div. 4)/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 937 (Div. 4)/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 938 (Div. 3)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 940 (Div. 2) and CodeCraft-23/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 940 (Div. 2) and CodeCraft-23/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 940 (Div. 2) and CodeCraft-23/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 940 (Div. 2) and CodeCraft-23/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 940 (Div. 2) and CodeCraft-23/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 940 (Div. 2) and CodeCraft-23/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 943 (Div. 3)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 944 (Div. 4)/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 945 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 945 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 945 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 945 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 946 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 949 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 949 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 949 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 949 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 950 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 951 (Div. 2)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/H1.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)/H1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 954 (Div. 3)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 957 (Div. 3)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 960 (Div. 2)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/B1.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/B1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/B2.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/B2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 962 (Div. 3)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 963 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 963 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 963 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 963 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 963 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 963 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 969 (Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 969 (Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 969 (Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 969 (Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 969 (Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 969 (Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/G1.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)/G1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 165 (Rated for Div. 2)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 166 (Rated for Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 166 (Rated for Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 166 (Rated for Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 166 (Rated for Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 166 (Rated for Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 166 (Rated for Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 169 (Rated for Div. 2)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/Testing Round 19 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/codeforces/pypy" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/codeforces/pypy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF1714D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF1714D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF938D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF938D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1165E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1165E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1878F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1878F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1884D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1884D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF251A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF251A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF576A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF576A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF1354B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF1354B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF760B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF760B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1343C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1343C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1796D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1796D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1843E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1843E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF486E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF486E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF608B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF608B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF1873F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF1873F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF264C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF264C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF650D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF650D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF898D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF898D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF985C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF985C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1362C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1362C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1364B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1364B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1879D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1879D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1077C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1077C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1400G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1400G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1950F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1950F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF976C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF976C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1759E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1759E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1862E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1862E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1883F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1883F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1849D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1849D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1670C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1670C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1725M.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1725M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1927D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1927D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF582B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF582B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1167E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1167E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1891C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1891C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1893B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1893B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1922C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1922C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/LGP5019.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-3/LGP5019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1372B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1372B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1901C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1901C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1935C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1935C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1037C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1037C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1870D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1870D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1905C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1905C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D1.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D2.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC249D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC249D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC253F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC253F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/CF1822F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-2/CF1822F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1292A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1292A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1902C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1902C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1946C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1946C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1227G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1227G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1468J.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1468J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1875C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1875C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1902D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1902D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1937B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1937B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1650G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1650G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1698C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1698C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1736B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1736B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1747C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1747C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1765K.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1765K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1788C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1788C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1955C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1955C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF622C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF622C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/LGP1144.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-8-5/LGP1144.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF115B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF115B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF1969C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF1969C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF213B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF213B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF437C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF437C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF593B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF593B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF858D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF858D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1728C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1728C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1758C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1758C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1772D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1772D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1929C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/rating/1400/CF1929C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__daily__/rating/1600/CF453A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__daily__/rating/1600/CF453A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/prefix_sum/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/prefix_sum/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/fenwick/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/fenwick/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/lca/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/lca/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/segment/node_segment_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/segment/node_segment_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/segment/segment_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/segment/segment_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/trie/delete_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/trie/delete_trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/trie/trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/trie/trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/trie/zero_one_delete_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/trie/zero_one_delete_trie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/dict_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/dict_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/bit/1.0/problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/1.0/problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/bit/1.0/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/1.0/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/bit/2.0/problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/2.0/problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/bit/2.0/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/2.0/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathmatics/prime/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/prime/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathmatics/prime/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/prime/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/kmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/kmp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/string_hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/string_hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/suffix_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/suffix_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/decorator/bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/decorator/bootstrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/io/fast_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/io/fast_io.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,6 +285,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;history&quot;: [
@@ -220,9 +303,6 @@
     &quot;accountId&quot;: &quot;986d27ca-be72-4057-a4a7-e206645844d9&quot;
   }
 }</component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="无" />
-  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -237,138 +317,138 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python 测试.C.UnitTest.test 的 Python 测试.executor": "Run",
-    "Python 测试.D.UnitTest 的 Python 测试.executor": "Run",
-    "Python 测试.D.UnitTest.test 的 Python 测试.executor": "Run",
-    "Python 测试.Python tests for B2.MyTest.executor": "Run",
-    "Python 测试.Python tests for B2.MyTest.test.executor": "Run",
-    "Python 测试.Python tests for accumulate.MyTest.test_accumulate.executor": "Run",
-    "Python 测试.Python tests for cf_1935C.MyTest.test1.executor": "Run",
-    "Python 测试.Python tests for compare.MyTestCase.executor": "Run",
-    "Python 测试.Python tests for example.MyTestCase.executor": "Run",
-    "Python 测试.Python tests for pal.MyTestCase.test_something.executor": "Run",
-    "Python 测试.Python tests for primes.MyTestCase.executor": "Run",
-    "Python 测试.Python tests for primes.MyTestCase.test_primes_ealich.executor": "Run",
-    "Python 测试.Python tests for primes.MyTestCase.test_primes_linear.executor": "Run",
-    "Python 测试.Python tests in B2.py.executor": "Run",
-    "Python 测试.Python tests in accumulate.py.executor": "Run",
-    "Python 测试.Python tests in pal.py.executor": "Run",
-    "Python 测试.Python 测试 (C.py 内).executor": "Run",
-    "Python 测试.Python 测试 (D.py 内).executor": "Run",
-    "Python 测试.Python 测试 (test.py 内).executor": "Run",
-    "Python 测试.SegmentTree.MyTestCase.testadd 的 Python 测试.executor": "Run",
-    "Python 测试.abc_359D.MyTest.testcase 的 Python 测试.executor": "Run",
-    "Python.1343C.executor": "Run",
-    "Python.1728C.executor": "Run",
-    "Python.1758C.executor": "Run",
-    "Python.1772D.executor": "Run",
-    "Python.1796D.executor": "Run",
-    "Python.1843E.executor": "Run",
-    "Python.1929C.executor": "Run",
-    "Python.486E.executor": "Run",
-    "Python.608B.executor": "Run",
-    "Python.A (1).executor": "Run",
-    "Python.A.executor": "Run",
-    "Python.B (1).executor": "Run",
-    "Python.B.executor": "Run",
-    "Python.B2.executor": "Run",
-    "Python.C (1).executor": "Run",
-    "Python.C.executor": "Run",
-    "Python.CF1362C.executor": "Run",
-    "Python.CF1364B.executor": "Run",
-    "Python.CF1879D.executor": "Run",
-    "Python.CF858D.executor": "Run",
-    "Python.D (1).executor": "Run",
-    "Python.D.executor": "Run",
-    "Python.E.executor": "Run",
-    "Python.F.executor": "Run",
-    "Python.G.executor": "Run",
-    "Python.G2.executor": "Run",
-    "Python.H.executor": "Run",
-    "Python.H1.executor": "Run",
-    "Python.abc_249D.executor": "Run",
-    "Python.abc_253F.executor": "Run",
-    "Python.abc_359D.executor": "Run",
-    "Python.cf_1037C.executor": "Run",
-    "Python.cf_1077C.executor": "Run",
-    "Python.cf_1110F.executor": "Run",
-    "Python.cf_115B.executor": "Run",
-    "Python.cf_1167E.executor": "Run",
-    "Python.cf_1227G.executor": "Run",
-    "Python.cf_1292A.executor": "Run",
-    "Python.cf_1354B.executor": "Run",
-    "Python.cf_1372B.executor": "Run",
-    "Python.cf_1400G.executor": "Run",
-    "Python.cf_1468J.executor": "Run",
-    "Python.cf_1650G.executor": "Run",
-    "Python.cf_1670C.executor": "Run",
-    "Python.cf_1725M.executor": "Run",
-    "Python.cf_1759E.executor": "Run",
-    "Python.cf_1822F.executor": "Run",
-    "Python.cf_1840A.executor": "Run",
-    "Python.cf_1840B.executor": "Run",
-    "Python.cf_1840C.executor": "Run",
-    "Python.cf_1840D.executor": "Run",
-    "Python.cf_1849D.executor": "Run",
-    "Python.cf_1862E.executor": "Run",
-    "Python.cf_1870D.executor": "Run",
-    "Python.cf_1873F.executor": "Run",
-    "Python.cf_1875C.executor": "Run",
-    "Python.cf_1883F.executor": "Run",
-    "Python.cf_1891C.executor": "Run",
-    "Python.cf_1893B.executor": "Run",
-    "Python.cf_1901C.executor": "Run",
-    "Python.cf_1902C.executor": "Run",
-    "Python.cf_1902D.executor": "Run",
-    "Python.cf_1903A.executor": "Run",
-    "Python.cf_1903B.executor": "Run",
-    "Python.cf_1903C.executor": "Run",
-    "Python.cf_1905C.executor": "Run",
-    "Python.cf_1922C.executor": "Run",
-    "Python.cf_1926F.executor": "Run",
-    "Python.cf_1926G.executor": "Run",
-    "Python.cf_1927D.executor": "Run",
-    "Python.cf_1934D2.executor": "Run",
-    "Python.cf_1935C.executor": "Run",
-    "Python.cf_1946C.executor": "Run",
-    "Python.cf_1950F.executor": "Run",
-    "Python.cf_213B.executor": "Run",
-    "Python.cf_264C.executor": "Run",
-    "Python.cf_437C.executor": "Run",
-    "Python.cf_582B.executor": "Run",
-    "Python.cf_593B.executor": "Run",
-    "Python.cf_650D.executor": "Run",
-    "Python.cf_760B.executor": "Run",
-    "Python.cf_898D.executor": "Run",
-    "Python.cf_976C.executor": "Run",
-    "Python.cf_985C.executor": "Run",
-    "Python.cf_rename.executor": "Run",
-    "Python.comb.executor": "Run",
-    "Python.luogu_P1144.executor": "Run",
-    "Python.luogu_P5019.executor": "Run",
-    "Python.perm.executor": "Run",
-    "Python.rename (1).executor": "Run",
-    "Python.rename.executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python/Algorithm-Template",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "two.files.diff.last.used.file": "D:/Python/Algorithm-template/.idea/workspace.xml",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python 测试.C.UnitTest.test 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.D.UnitTest 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.D.UnitTest.test 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for B2.MyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for B2.MyTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for accumulate.MyTest.test_accumulate.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for cf_1935C.MyTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for compare.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for example.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for pal.MyTestCase.test_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for primes.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for primes.MyTestCase.test_primes_ealich.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests for primes.MyTestCase.test_primes_linear.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests in B2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests in accumulate.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python tests in pal.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python 测试 (C.py 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python 测试 (D.py 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.Python 测试 (test.py 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.SegmentTree.MyTestCase.testadd 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.abc_359D.MyTest.testcase 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1343C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1728C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1758C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1772D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1796D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1843E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1929C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.486E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.608B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.A (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CF1362C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CF1364B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CF1879D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CF858D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.G2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.H.executor&quot;: &quot;Run&quot;,
+    &quot;Python.H1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abc_249D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abc_253F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abc_359D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1037C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1077C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1110F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_115B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1167E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1227G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1292A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1354B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1372B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1400G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1468J.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1650G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1670C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1725M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1759E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1822F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1840A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1840B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1840C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1840D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1849D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1862E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1870D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1873F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1875C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1883F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1891C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1893B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1901C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1902C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1902D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1903A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1903B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1903C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1905C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1922C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1926F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1926G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1927D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1934D2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1935C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1946C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_1950F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_213B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_264C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_437C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_582B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_593B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_650D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_760B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_898D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_976C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_985C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cf_rename.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luogu_P1144.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luogu_P5019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rename (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.rename.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/Algorithm-Template&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;D:/Python/Algorithm-template/.idea/workspace.xml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Algorithm-template\__contest__\codeforces\Codeforces Round 937 (Div. 4)" />
@@ -397,30 +477,7 @@
       <visibility group="运行配置" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python.CF858D">
-    <configuration name="CF1362C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__daily__/period/2024-6-2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1362C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.D (1)">
     <configuration name="CF1364B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm-template" />
       <option name="ENV_FILES" value="" />
@@ -490,6 +547,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="D (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm-template" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366/D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm-template" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356/D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm-template" />
       <option name="ENV_FILES" value="" />
@@ -515,11 +618,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.D (1)" />
+        <item itemvalue="Python.D" />
         <item itemvalue="Python.CF858D" />
         <item itemvalue="Python.CF1364B" />
         <item itemvalue="Python.CF1879D" />
-        <item itemvalue="Python.CF1362C" />
-        <item itemvalue="Python.rename (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -620,7 +723,8 @@
       <workItem from="1724153624545" duration="23908000" />
       <workItem from="1724837820711" duration="41000" />
       <workItem from="1724837870069" duration="74136000" />
-      <workItem from="1725441921292" duration="25955000" />
+      <workItem from="1725441921292" duration="33413000" />
+      <workItem from="1725723001567" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="Upload: codeforces daily 2024-5-27">
       <option name="closed" value="true" />
@@ -894,7 +998,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725385310470</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Update some changes and upload coding in the past week">
+      <option name="closed" value="true" />
+      <created>1725692224835</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1725692224836</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -946,17 +1058,6 @@
     <MESSAGE value="Update some changes and upload coding in the past week" />
     <option name="LAST_COMMIT_MESSAGE" value="Update some changes and upload coding in the past week" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mathmatics/prime/template.py</url>
-          <line>130</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1891C.coverage" NAME="cf_1891C 覆盖结果" MODIFIED="1721287751327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_213B.coverage" NAME="cf_213B 覆盖结果" MODIFIED="1725517110142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-9-1" />
@@ -1001,7 +1102,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$luogu_P1144.coverage" NAME="luogu_P1144 覆盖结果" MODIFIED="1724902703315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-5" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$F.coverage" NAME="F 覆盖结果" MODIFIED="1725380480847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$E.coverage" NAME="E 覆盖结果" MODIFIED="1718119391503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$D__1_.coverage" NAME="D (1) 覆盖结果" MODIFIED="1722395589799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Educational Codeforces Round 168 (Rated for Div. 2)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$D__1_.coverage" NAME="D (1) 覆盖结果" MODIFIED="1725721987271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1862E.coverage" NAME="cf_1862E 覆盖结果" MODIFIED="1719372773390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-4" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$rename__1_.coverage" NAME="rename (1) 覆盖结果" MODIFIED="1725612629606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$B__1_.coverage" NAME="B (1) 覆盖结果" MODIFIED="1725106221769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369" />
@@ -1014,7 +1115,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1077C.coverage" NAME="cf_1077C 覆盖结果" MODIFIED="1718675139996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840D.coverage" NAME="cf_1840D 覆盖结果" MODIFIED="1719844286331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_898D.coverage" NAME="cf_898D 覆盖结果" MODIFIED="1717558772737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/daily/period/2024-6-1" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$D.coverage" NAME="D 覆盖结果" MODIFIED="1725385012331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$D.coverage" NAME="D 覆盖结果" MODIFIED="1725721799205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 356" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1822F.coverage" NAME="cf_1822F 覆盖结果" MODIFIED="1723009512297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$test.coverage" NAME="test 覆盖结果" MODIFIED="1725119958227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1870D.coverage" NAME="cf_1870D 覆盖结果" MODIFIED="1722575155952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />

@@ -1,20 +1,9 @@
 ImportType = InputType = ConstType = 1
 DecoratorType = FunctinoType = 1
 if ImportType:
-    import os, sys, random, threading
-    from copy import deepcopy
-    from decimal import Decimal, getcontext
-    from random import randint, choice, shuffle
+    import sys, random
     from types import GeneratorType
-    from functools import lru_cache, reduce
-    from bisect import bisect_left, bisect_right
-    from collections import Counter, defaultdict, deque
-    from itertools import accumulate, combinations, permutations
-    from heapq import heapify, heappop, heappush, heappushpop
-    from typing import Generic, Iterable, Iterator, TypeVar, Union, List
-    from string import ascii_lowercase, ascii_uppercase, digits
-    from math import ceil, floor, sqrt, pi, factorial, gcd, lcm, log, log10, log2, inf
-    from sys import stdin, stdout, setrecursionlimit
+    from typing import List
 
 if InputType:
     input = lambda: sys.stdin.readline().rstrip("\r\n")
@@ -138,13 +127,7 @@ if ConstType:
     A, B = "Alice", "Bob"
 
 
-def C() -> None:
-    for _ in range(1):
-        solve()
-    return
-
-
-def solve():
+def C():
     n = II()
     a = LII()
     i = 0
@@ -159,6 +142,7 @@ def solve():
         if i < n:
             i -= 1
     print(ans)
-    
+
+
 if __name__ == '__main__':
     C()

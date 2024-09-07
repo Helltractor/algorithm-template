@@ -19,11 +19,13 @@ class Primes:
     @staticmethod
     def primes_enumeration(n: int) -> int:
         """枚举"""
+        
         def is_prime(n):
             for i in range(2, n):
                 if n % i == 0:
                     return False
             return True if n > 1 else False
+        
         primes = []
         for i in range(2, n):
             if is_prime(i):
@@ -33,11 +35,13 @@ class Primes:
     @staticmethod
     def primes_enumeration_plus(n: int) -> int:
         """枚举优化"""
+        
         def is_prime(n):
             for i in range(2, int(n ** 0.5) + 1):
                 if n % i == 0:
                     return False
             return True if n > 1 else False
+        
         primes = []
         for i in range(2, n):
             if is_prime(i):
@@ -56,7 +60,7 @@ class Primes:
                 if i * p >= n: break
                 is_prime[i * p] = False
                 if i % p == 0: break
-        primes.extend([n, n])   # 防止下标越界
+        primes.extend([n, n])  # 防止下标越界
         return primes
     
     @staticmethod
@@ -69,7 +73,7 @@ class Primes:
                 primes.append(i)
                 for j in range(i ** 2, n, i):
                     is_prime[j] = False
-        primes.extend([n, n])   # 防止下标越界
+        primes.extend([n, n])  # 防止下标越界
         return primes
     
     @staticmethod

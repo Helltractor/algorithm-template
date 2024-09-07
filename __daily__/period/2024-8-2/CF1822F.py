@@ -25,13 +25,14 @@ if InputType:
     LII = lambda: list(map(int, input().split()))
     GMI = lambda: map(lambda x: int(x) - 1, input().split())
     LGMI = lambda: list(map(lambda x: int(x) - 1, input().split()))
-    
+
 if ConstType:
     RD = random.randint(10 ** 9, 2 * 10 ** 9)
     MOD = 998244353
     inf = 10 ** 18
     Y = "Yes"
     N = "No"
+
 
 def bootstrap(f, stack=[]):
     def wrappedfunc(*args, **kwargs):
@@ -52,6 +53,7 @@ def bootstrap(f, stack=[]):
     
     return wrappedfunc
 
+
 def CF1822F():
     for _ in range(II()):
         n, k, c = MII()
@@ -60,7 +62,7 @@ def CF1822F():
             u, v = GMI()
             g[u].append((v, k))
             g[v].append((u, k))
-            
+        
         nodes = [None] * n
         
         @bootstrap
@@ -81,6 +83,7 @@ def CF1822F():
                     mx2 = tmp
             nodes[x] = (p, mx, mx2)
             yield mx
+        
         dfs(0, -1)
         
         def reroot(x, fa, up, cost):
@@ -94,8 +97,7 @@ def CF1822F():
                 else:
                     tmp = max(up, nodes[x][1])
                 reroot(y, x, tmp + w, cost + c)
-            return
-
+        
         ans = nodes[0][1]
         # reroot(0, -1, 0, 0)
         
@@ -113,7 +115,6 @@ def CF1822F():
                         tmp = max(up, nodes[x][1])
                     q.append([y, x, tmp + w, cost + c])
         print(ans)
-    return
 
 
 if __name__ == '__main__':

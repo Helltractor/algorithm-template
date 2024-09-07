@@ -31,6 +31,7 @@ if ConstType:
     Y = "Yes"
     N = "No"
 
+
 def CF1934D2():
     def f():
         p, q = MII()
@@ -47,8 +48,6 @@ def CF1934D2():
             hb = 1 << (n.bit_length() - 1)
             print(n ^ hb, hb)
             n = f()
-        
-    return
 
 
 if __name__ == '__main__':

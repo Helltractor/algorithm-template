@@ -136,20 +136,17 @@ if ConstType:
     Direction8 = [(0, 1), (0, -1), (1, 0), (-1, 0), (1, 1), (1, -1), (-1, 1), (-1, -1)]  # ->, <-, v, ^, ↘, ↙, ↗, ↖
     Y, N = "Yes", "No"
 
-def solve():
-    n = II()
-    a = LII()
-    flag = True
-    for i in range(1, n - 1):
-        if gcd(lcm(a[i - 1], a[i]), lcm(a[i], a[i + 1])) != a[i]:
-            flag = False
-            break
-    print(Y if flag else N)
 
-
-def CF1736B() -> None:
+def CF1736B():
     for _ in range(II()):
-        solve()
+        n = II()
+        a = LII()
+        flag = True
+        for i in range(1, n - 1):
+            if gcd(lcm(a[i - 1], a[i]), lcm(a[i], a[i + 1])) != a[i]:
+                flag = False
+                break
+        print(Y if flag else N)
 
 
 if __name__ == '__main__':

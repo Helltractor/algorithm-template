@@ -49,7 +49,6 @@ def G2():
                 l = midl + 1
                 r = midr - 1
         print('!', l)
-    return
 
 
 if __name__ == '__main__':

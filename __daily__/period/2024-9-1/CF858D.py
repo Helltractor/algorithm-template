@@ -12,6 +12,7 @@ from typing import Generic, Iterable, Iterator, TypeVar, Union, List
 from math import ceil, floor, sqrt, pi, factorial, gcd, lcm, log, log10, log2, inf
 from sys import stdin, stdout, setrecursionlimit
 
+
 class FastIO(IOBase):
     newlines = 0
     
@@ -99,7 +100,7 @@ def CF858D():
                 if vis[cur * 10 + j - i] == 1 and j - i < mn:
                     mn = j - i
                     st = i
-        ans.append(s[st:st+mn+1])
+        ans.append(s[st:st + mn + 1])
     print('\n'.join(ans))
 
 
