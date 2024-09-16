@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
 # @File : list.py
-# @Time : 2024/7/15 下午2:20
+# @Time : daily/7/15 下午2:20
 
 
 class UnionFind:

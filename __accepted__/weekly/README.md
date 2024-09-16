@@ -20,9 +20,14 @@
 
 * [X] [CF1354B](https://codeforces.com/contest/1354/problem/B)
 * [X] [CF760B](https://codeforces.com/contest/760/problem/B)
-* [ ] [CF1689C](https://codeforces.com/contest/1689/problem/C)
+* [X] [CF1689C](https://codeforces.com/contest/1689/problem/C)
 * [ ] [CF451E](https://codeforces.com/contest/451/problem/E)
 * [X] [LC526](https://leetcode-cn.com/problems/beautiful-arrangement/)
+
+---
+* [X] [P1041](https://www.luogu.com.cn/problem/P1041)
+* [X] [LC2929](https://leetcode.cn/problems/distribute-candies-among-children-ii/description/)
+* [ ] [P5369](https://www.luogu.com.cn/problem/P5369)
 
 ## 2024-5-4 (2024.5.27 - 2024.5.31)
 
@@ -169,3 +174,23 @@
 
 * [X] [CF593B](https://codeforces.com/contest/593/problem/B)
 * [X] [CF858D](https://codeforces.com/contest/858/problem/D)
+* [X] [CF1878A](https://codeforces.com/contest/1878/problem/A)
+* [X] [CF1878B](https://codeforces.com/contest/1878/problem/B)
+* [X] [CF1980E](https://codeforces.com/contest/1980/problem/E)
+
+## 2024-9-2 (2024.9.9 - 2024.9.13)
+
+* [X] [CF1895C](https://codeforces.com/contest/1895/problem/C)
+* [X] [CF1924A](https://codeforces.com/contest/1924/problem/A)
+* [X] [CF1864D](https://codeforces.com/contest/1864/problem/D)
+---
+
+* [X] [CF1878C](https://codeforces.com/contest/1878/problem/C)
+* [X] [CF1878D](https://codeforces.com/contest/1878/problem/D)
+* [X] [CF1878E](https://codeforces.com/contest/1878/problem/E)
+* [X] [CF913D](https://codeforces.com/contest/913/problem/D)
+* [X] [CF744B](https://codeforces.com/contest/744/problem/B)
+* [X] [CF1883A](https://codeforces.com/contest/1883/problem/A) 水题
+* [X] [CF559C](https://codeforces.com/contest/559/problem/C) 不同路径，组合数
+* [X] [CF644B](https://codeforces.com/contest/644/problem/B) 双端队列
+* [X] [CF314B](https://codeforces.com/contest/314/problem/B) 贪心，循环节

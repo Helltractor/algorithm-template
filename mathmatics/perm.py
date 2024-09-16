@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
 # @File : perm.py
-# @Time : 2024/5/13 下午10:32
+# @Time : daily/5/13 下午10:32
 # @Description : Permutation number
 
 # mod = pow(10, 9) + 7

@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
 # @File : string_hash.py
-# @Time : 2024/3/11 15:50
+# @Time : daily/3/11 15:50
 
 
 class StringHash:
@@ -22,22 +22,3 @@ class StringHash:
     def get_addhash(self, l1, r1, l2, r2):
         """获取 s[l1:r1+1] 和 s[l2:r2+1] 拼接的哈希值，要求不能有重叠部分，且有先后顺序"""
         return (self.get_hash(l1, r1) * self.p[r2 - l2 + 1] + self.get_hash(l2, r2)) % self.MOD
-
-
-class StringHash:
-    def __init__(self, s, seed=31, mod=10 ** 13 + 7):
-        self.n = len(s)
-        self.pw = [1]
-        self.mod = mod
-        self.table = [0] * (self.n + 1)
-
-        for i in range(1, self.n + 1):
-            self.pw.append(self.pw[-1] * seed % mod)
-
-        for i in range(self.n - 1, -1, -1):
-            self.table[i] = self.table[i + 1] * seed + ord(s[i])
-            self.table[i] %= mod
-
-    def get(self, l, r):
-        """取闭区间[l,r] 可以 l == r + 1 返回0"""
-        return (self.table[l] - self.table[r + 1] * self.pw[r - l + 1] + self.mod) % self.mod

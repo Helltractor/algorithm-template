@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
 # @File : comb.py
-# @Time : 2024/4/22 10:40
+# @Time : daily/4/22 10:40
 # @Description : Combination number
 
 # mod = pow(10, 9) + 7

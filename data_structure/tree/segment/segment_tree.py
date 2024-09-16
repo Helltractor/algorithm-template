@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
 # @File : segment_tree.py
-# @Time : 2024/6/7 上午11:51
+# @Time : daily/6/7 上午11:51
 import typing
 
 
