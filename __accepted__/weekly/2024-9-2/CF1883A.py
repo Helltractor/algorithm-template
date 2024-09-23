@@ -67,8 +67,8 @@ LI = lambda: list(input().split())
 LII = lambda: list(map(int, input().split()))
 GMI = lambda: map(lambda x: int(x) - 1, input().split())
 LGMI = lambda: list(map(lambda x: int(x) - 1, input().split()))
-lmin = lambda x, y: x if x < y else y
-lmax = lambda x, y: x if x > y else y
+fmin = lambda x, y: x if x < y else y
+fmax = lambda x, y: x if x > y else y
 MOD1, MOD9 = 10 ** 9 + 7, 998244353
 RD = random.randint(MOD1, MOD1 << 1)
 D4 = [(0, 1), (0, -1), (1, 0), (-1, 0)]  # ->, <-, v, ^
@@ -79,7 +79,7 @@ def CF1883A():
     for _ in range(II()):
         s = I()
         ans = 0
-        d = {'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '0': 10}
+        d = {'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '09': 9, '0': 10}
         pre = '1'
         for c in s:
             ans += abs(d[c] - d[pre])

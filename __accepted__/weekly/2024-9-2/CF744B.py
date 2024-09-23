@@ -67,8 +67,8 @@ LI = lambda: list(input().split())
 LII = lambda: list(map(int, input().split()))
 GMI = lambda: map(lambda x: int(x) - 1, input().split())
 LGMI = lambda: list(map(lambda x: int(x) - 1, input().split()))
-lmin = lambda x, y: x if x < y else y
-lmax = lambda x, y: x if x > y else y
+fmin = lambda x, y: x if x < y else y
+fmax = lambda x, y: x if x > y else y
 MOD1, MOD9 = 10 ** 9 + 7, 998244353
 RD = random.randint(MOD1, MOD1 << 1)
 D4 = [(0, 1), (0, -1), (1, 0), (-1, 0)]  # ->, <-, v, ^
@@ -99,7 +99,7 @@ def CF744B():
     ans = [inf] * n
     for i in range(n):
         for bit in range(k):
-            ans[i] = lmin(ans[i], [cnt1, cnt0][(i + 1) >> bit & 1][i][bit])
+            ans[i] = fmin(ans[i], [cnt1, cnt0][(i + 1) >> bit & 1][i][bit])
 
     print(-1)
     print(*ans)

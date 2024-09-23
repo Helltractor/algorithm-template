@@ -1,5 +1,4 @@
 # _*_ coding: utf-8 _*_
-# @File : greatest_common_divisor.py
 # @Time : 2023/11/16 14:44
 
 

@@ -19,7 +19,6 @@ class Primes:
     @staticmethod
     def primes_enumeration(n: int) -> int:
         """枚举"""
-        
         def is_prime(n):
             for i in range(2, n):
                 if n % i == 0:
@@ -35,7 +34,6 @@ class Primes:
     @staticmethod
     def primes_enumeration_plus(n: int) -> int:
         """枚举优化"""
-        
         def is_prime(n):
             for i in range(2, int(n ** 0.5) + 1):
                 if n % i == 0:

@@ -5,174 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60804908-aef1-4d82-a64d-8a2fd6ce1c5b" name="更改" comment="Update some changes and upload coding in the past week">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-11/CF314B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1883C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1920E$FastScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1920E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1920E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1920E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1267E$FastScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1267E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1267E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1267E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1689C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1883D$FastScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1883D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1883D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1883D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF2003A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF682C$FastScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF682C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF682C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF682C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF735C$FastScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF735C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF735C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF735C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/LGP1041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1856C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1857F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1857F.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1956C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF1878A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF1878B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF1980E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1864D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1878C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1878D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1878E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1883A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1895C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1924A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF559C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF644B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF744B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF913D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/spfa/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/16/CF1899F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/16/CF628B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/16/CF628B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/16/CF641C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF1063C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF1904D1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF1997D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF1997D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF433C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF433C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/17/CF729E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/18/CF1279D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/18/CF1881F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/18/CF340E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/19/CF1919D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/19/CF281B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/19/CF309A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/20/CF1107F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/20/CF615B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/20/CF852C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/21/CF1082B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/23/CF1073C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/23/CF1648C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/23/CF1983C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)/F.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/tree/diameter/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mathmatics/factorial/template.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__contest__/nowcode/pypy" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/nowcode/pypy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF1714D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-1/CF1714D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-1/CF938D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-1/CF938D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1165E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-2/CF1165E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1878F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-2/CF1878F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF1884D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-2/CF1884D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF251A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-2/CF251A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-2/CF576A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-2/CF576A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF1354B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-3/CF1354B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-3/CF760B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-3/CF760B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1343C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-4/CF1343C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1796D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-4/CF1796D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF1843E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-4/CF1843E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF486E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-4/CF486E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-5-4/CF608B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-5-4/CF608B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF1873F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-1/CF1873F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF264C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-1/CF264C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF650D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-1/CF650D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF898D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-1/CF898D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-1/CF985C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-1/CF985C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1362C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-2/CF1362C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1364B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-2/CF1364B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-2/CF1879D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-2/CF1879D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1077C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-3/CF1077C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1400G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-3/CF1400G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-3/CF1926F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1926G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-3/CF1926G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF1950F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-3/CF1950F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-3/CF976C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-3/CF976C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1759E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-4/CF1759E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1862E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-4/CF1862E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-6-4/CF1883F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-6-4/CF1883F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1840A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1840B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1840C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1840D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1840D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1849D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1849D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1903A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1903B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-1/CF1903C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-1/CF1903C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1670C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-2/CF1670C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1725M.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-2/CF1725M.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF1927D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-2/CF1927D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-2/CF582B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-2/CF582B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1167E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-3/CF1167E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1891C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-3/CF1891C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1893B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-3/CF1893B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/CF1922C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-3/CF1922C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-3/LGP5019.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-3/LGP5019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1372B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-4/CF1372B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1901C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-4/CF1901C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-7-4/CF1935C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-7-4/CF1935C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1037C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-1/CF1037C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1870D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-1/CF1870D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1905C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-1/CF1905C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D1.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-1/CF1934D1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-1/CF1934D2.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-1/CF1934D2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC249D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-2/ABC249D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC253F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-2/ABC253F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/ABC359D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-2/ABC359D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-2/CF1822F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-2/CF1822F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1292A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-3/CF1292A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1902C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-3/CF1902C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-3/CF1946C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-3/CF1946C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1227G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-4/CF1227G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1468J.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-4/CF1468J.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1875C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-4/CF1875C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1902D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-4/CF1902D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-4/CF1937B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-4/CF1937B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1650G.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1650G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1698C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1698C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1736B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1736B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1747C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1747C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1765K.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1765K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1788C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1788C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF1955C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF1955C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/CF622C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/CF622C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-8-5/LGP1144.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-8-5/LGP1144.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF115B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF115B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF1969C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF1969C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF213B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF213B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF437C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF437C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF593B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF593B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/2024-9-1/CF858D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-1/CF858D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/period/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1728C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/rating/1400/CF1728C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1758C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/rating/1400/CF1758C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1772D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/rating/1400/CF1772D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1400/CF1929C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/rating/1400/CF1929C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__daily__/rating/1600/CF453A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/rating/1600/CF453A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/dual_heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/dual_heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/sorted_list/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/sorted_list/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/tree/lca/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/lca/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/tree/segment/segment_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/segment/segment_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/tree/trie/delete_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/trie/delete_trie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/tree/trie/simple_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/trie/simple_trie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/tree/trie/zero_one_delete_trie.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/trie/zero_one_delete_trie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/trinary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/trinary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/dict_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/dict_add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/unionfind/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/unionfind/simple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/bit/1.0/problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/1.0/problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-11/CF1883B.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/11/CF1883B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-11/CF314B.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/11/CF314B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-11/CF314B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/11/CF314B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-11/CF559C.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/11/CF559C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-11/CF644B.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/11/CF644B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1883C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/12/CF1883C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1920E.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/12/CF1920E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/CF1920E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/12/CF1920E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/LC432.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/12/LC432.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-12/LC707.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/12/LC707.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1267E.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/13/CF1267E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1267E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/13/CF1267E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1883D.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/13/CF1883D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF1883D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/13/CF1883D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF735C.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/13/CF735C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF735C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/13/CF735C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF1689C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/14/CF1689C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF2003A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/14/CF2003A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF682C.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/14/CF682C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF682C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/14/CF682C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-14/LGP1041.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/14/LGP1041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1856C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/15/CF1856C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1857F.java" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/15/CF1857F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1857F.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/15/CF1857F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/daily/2024-9-15/CF1956C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/daily/2024/09/15/CF1956C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1864D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1864D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1883A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF1883A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF559C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF559C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF644B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF644B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF744B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__accepted__/weekly/2024-9-2/CF744B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structure/tree/fenwick/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/tree/fenwick/template.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dp/bit/1.0/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/1.0/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/bit/2.0/problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/2.0/problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dp/bit/2.0/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/bit/2.0/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/dijkstra/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/dijkstra/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mathmatics/comb.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/comb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mathmatics/perm.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/perm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mathmatics/prime/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/prime/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/spfa/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/spfa/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathmatics/comb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathmatics/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/gcd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathmatics/perm.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mathmatics/prime/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/mathmatics/prime/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/kmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/kmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/string_hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/string_hash.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/suffix_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/suffix_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/decorator/bootstrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/decorator/bootstrap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/io/fast_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/io/fast_io.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,11 +105,11 @@
         <option value="Weekly record" />
         <option value="XML Configuration File" />
         <option value="Python Unit Test" />
-        <option value="Gherkin feature file" />
-        <option value="Python Script" />
         <option value="Record" />
-        <option value="Algorithm Template" />
+        <option value="Gherkin feature file" />
         <option value="Algorithm template" />
+        <option value="Python Script" />
+        <option value="Algorithm Template" />
       </list>
     </option>
   </component>
@@ -220,6 +134,9 @@
     &quot;accountId&quot;: &quot;986d27ca-be72-4057-a4a7-e206645844d9&quot;
   }
 }</component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -234,169 +151,194 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python 测试.C.UnitTest.test 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.D.UnitTest 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.D.UnitTest.test 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for B2.MyTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for B2.MyTest.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for accumulate.MyTest.test_accumulate.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for cf_1935C.MyTest.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for compare.MyTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for example.MyTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for pal.MyTestCase.test_something.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for primes.MyTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for primes.MyTestCase.test_primes_ealich.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests for primes.MyTestCase.test_primes_linear.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests in B2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests in accumulate.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python tests in pal.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (C.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (D.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.Python 测试 (test.py 内).executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.SegmentTree.MyTestCase.testadd 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python 测试.abc_359D.MyTest.testcase 的 Python 测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1343C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1728C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1758C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1772D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1796D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1843E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1929C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.486E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.608B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.A (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.A.executor&quot;: &quot;Run&quot;,
-    &quot;Python.B (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.B2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.C (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1267E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1362C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1364B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1689C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1856C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1857F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1879D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1883C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1883D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1920E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF1956C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF2003A.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF682C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF735C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CF858D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.D (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.G.executor&quot;: &quot;Run&quot;,
-    &quot;Python.G2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.H.executor&quot;: &quot;Run&quot;,
-    &quot;Python.H1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LGP1041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.abc_249D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.abc_253F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.abc_359D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1037C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1077C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1110F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_115B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1167E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1227G.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1292A.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1354B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1372B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1400G.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1468J.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1650G.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1670C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1725M.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1759E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1822F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1840A.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1840B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1840C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1840D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1849D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1862E.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1870D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1873F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1875C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1883F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1891C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1893B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1901C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1902C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1902D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1903A.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1903B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1903C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1905C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1922C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1926F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1926G.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1927D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1934D2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1935C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1946C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_1950F.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_213B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_264C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_437C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_582B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_593B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_650D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_760B.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_898D.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_976C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_985C.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cf_rename.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comb.executor&quot;: &quot;Run&quot;,
-    &quot;Python.luogu_P1144.executor&quot;: &quot;Run&quot;,
-    &quot;Python.luogu_P5019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rename (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.rename.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/Algorithm-Template&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;D:/Python/Algorithm-template/.idea/workspace.xml&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python 测试.C.UnitTest.test 的 Python 测试.executor": "Run",
+    "Python 测试.D.UnitTest 的 Python 测试.executor": "Run",
+    "Python 测试.D.UnitTest.test 的 Python 测试.executor": "Run",
+    "Python 测试.Python tests for B2.MyTest.executor": "Run",
+    "Python 测试.Python tests for B2.MyTest.test.executor": "Run",
+    "Python 测试.Python tests for accumulate.MyTest.test_accumulate.executor": "Run",
+    "Python 测试.Python tests for cf_1935C.MyTest.test1.executor": "Run",
+    "Python 测试.Python tests for compare.MyTestCase.executor": "Run",
+    "Python 测试.Python tests for example.MyTestCase.executor": "Run",
+    "Python 测试.Python tests for pal.MyTestCase.test_something.executor": "Run",
+    "Python 测试.Python tests for primes.MyTestCase.executor": "Run",
+    "Python 测试.Python tests for primes.MyTestCase.test_primes_ealich.executor": "Run",
+    "Python 测试.Python tests for primes.MyTestCase.test_primes_linear.executor": "Run",
+    "Python 测试.Python tests in B2.py.executor": "Run",
+    "Python 测试.Python tests in accumulate.py.executor": "Run",
+    "Python 测试.Python tests in pal.py.executor": "Run",
+    "Python 测试.Python 测试 (C.py 内).executor": "Run",
+    "Python 测试.Python 测试 (D.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test.py 内).executor": "Run",
+    "Python 测试.SegmentTree.MyTestCase.testadd 的 Python 测试.executor": "Run",
+    "Python 测试.abc_359D.MyTest.testcase 的 Python 测试.executor": "Run",
+    "Python.1343C.executor": "Run",
+    "Python.1728C.executor": "Run",
+    "Python.1758C.executor": "Run",
+    "Python.1772D.executor": "Run",
+    "Python.1796D.executor": "Run",
+    "Python.1843E.executor": "Run",
+    "Python.1929C.executor": "Run",
+    "Python.486E.executor": "Run",
+    "Python.608B.executor": "Run",
+    "Python.A (1).executor": "Run",
+    "Python.A.executor": "Run",
+    "Python.B (1).executor": "Run",
+    "Python.B.executor": "Run",
+    "Python.B2.executor": "Run",
+    "Python.C (1).executor": "Run",
+    "Python.C.executor": "Run",
+    "Python.CF1073C.executor": "Run",
+    "Python.CF1082B.executor": "Run",
+    "Python.CF1107F.executor": "Run",
+    "Python.CF1267E.executor": "Run",
+    "Python.CF1279D.executor": "Run",
+    "Python.CF1362C.executor": "Run",
+    "Python.CF1364B.executor": "Run",
+    "Python.CF1648C (1).executor": "Run",
+    "Python.CF1689C.executor": "Run",
+    "Python.CF1856C.executor": "Run",
+    "Python.CF1857F.executor": "Run",
+    "Python.CF1879D.executor": "Run",
+    "Python.CF1881F.executor": "Run",
+    "Python.CF1883C.executor": "Run",
+    "Python.CF1883D.executor": "Run",
+    "Python.CF1899F.executor": "Run",
+    "Python.CF1919D.executor": "Run",
+    "Python.CF1920E.executor": "Run",
+    "Python.CF1956C.executor": "Run",
+    "Python.CF1983C.executor": "Run",
+    "Python.CF1997D.executor": "Run",
+    "Python.CF2003A.executor": "Run",
+    "Python.CF281B.executor": "Run",
+    "Python.CF309A.executor": "Run",
+    "Python.CF340E.executor": "Run",
+    "Python.CF433C.executor": "Run",
+    "Python.CF615B.executor": "Run",
+    "Python.CF628B.executor": "Run",
+    "Python.CF641C.executor": "Run",
+    "Python.CF648C.executor": "Run",
+    "Python.CF682C.executor": "Run",
+    "Python.CF729E.executor": "Run",
+    "Python.CF735C.executor": "Run",
+    "Python.CF852C.executor": "Run",
+    "Python.CF858D.executor": "Run",
+    "Python.D (1).executor": "Run",
+    "Python.D.executor": "Run",
+    "Python.E (1).executor": "Run",
+    "Python.E.executor": "Run",
+    "Python.F.executor": "Run",
+    "Python.G.executor": "Run",
+    "Python.G2.executor": "Run",
+    "Python.H.executor": "Run",
+    "Python.H1.executor": "Run",
+    "Python.LGP1041.executor": "Run",
+    "Python.abc_249D.executor": "Run",
+    "Python.abc_253F.executor": "Run",
+    "Python.abc_359D.executor": "Run",
+    "Python.cf_1037C.executor": "Run",
+    "Python.cf_1077C.executor": "Run",
+    "Python.cf_1110F.executor": "Run",
+    "Python.cf_115B.executor": "Run",
+    "Python.cf_1167E.executor": "Run",
+    "Python.cf_1227G.executor": "Run",
+    "Python.cf_1292A.executor": "Run",
+    "Python.cf_1354B.executor": "Run",
+    "Python.cf_1372B.executor": "Run",
+    "Python.cf_1400G.executor": "Run",
+    "Python.cf_1468J.executor": "Run",
+    "Python.cf_1650G.executor": "Run",
+    "Python.cf_1670C.executor": "Run",
+    "Python.cf_1725M.executor": "Run",
+    "Python.cf_1759E.executor": "Run",
+    "Python.cf_1822F.executor": "Run",
+    "Python.cf_1840A.executor": "Run",
+    "Python.cf_1840B.executor": "Run",
+    "Python.cf_1840C.executor": "Run",
+    "Python.cf_1840D.executor": "Run",
+    "Python.cf_1849D.executor": "Run",
+    "Python.cf_1862E.executor": "Run",
+    "Python.cf_1870D.executor": "Run",
+    "Python.cf_1873F.executor": "Run",
+    "Python.cf_1875C.executor": "Run",
+    "Python.cf_1883F.executor": "Run",
+    "Python.cf_1891C.executor": "Run",
+    "Python.cf_1893B.executor": "Run",
+    "Python.cf_1901C.executor": "Run",
+    "Python.cf_1902C.executor": "Run",
+    "Python.cf_1902D.executor": "Run",
+    "Python.cf_1903A.executor": "Run",
+    "Python.cf_1903B.executor": "Run",
+    "Python.cf_1903C.executor": "Run",
+    "Python.cf_1905C.executor": "Run",
+    "Python.cf_1922C.executor": "Run",
+    "Python.cf_1926F.executor": "Run",
+    "Python.cf_1926G.executor": "Run",
+    "Python.cf_1927D.executor": "Run",
+    "Python.cf_1934D2.executor": "Run",
+    "Python.cf_1935C.executor": "Run",
+    "Python.cf_1946C.executor": "Run",
+    "Python.cf_1950F.executor": "Run",
+    "Python.cf_213B.executor": "Run",
+    "Python.cf_264C.executor": "Run",
+    "Python.cf_437C.executor": "Run",
+    "Python.cf_582B.executor": "Run",
+    "Python.cf_593B.executor": "Run",
+    "Python.cf_650D.executor": "Run",
+    "Python.cf_760B.executor": "Run",
+    "Python.cf_898D.executor": "Run",
+    "Python.cf_976C.executor": "Run",
+    "Python.cf_985C.executor": "Run",
+    "Python.cf_rename.executor": "Run",
+    "Python.comb.executor": "Run",
+    "Python.luogu_P1144.executor": "Run",
+    "Python.luogu_P5019.executor": "Run",
+    "Python.perm.executor": "Run",
+    "Python.rename (1).executor": "Run",
+    "Python.rename.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Python/algorithm-template/__accepted__/daily/2024/09",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "two.files.diff.last.used.file": "D:/Python/Algorithm-template/.idea/workspace.xml",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Algorithm-template\__contest__\codeforces\Codeforces Round 937 (Div. 4)" />
       <recent name="D:\Python\Algorithm-template\Contests\codeforces\Daily" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\algorithm-template\__accepted__\daily\2024-9-11" />
-      <recent name="D:\Python\Algorithm-Template\__daily__\2024" />
-      <recent name="D:\Python\Algorithm-Template\__daily__" />
-      <recent name="D:\Python\Algorithm-Template\__contest__" />
-      <recent name="D:\Python\Algorithm-Template\__daily__\rating\1400" />
+      <recent name="D:\Python\algorithm-template\__accepted__\daily\2024\09" />
+      <recent name="D:\Python\algorithm-template\__accepted__\daily\2024-9-20" />
+      <recent name="D:\Python\algorithm-template\__accepted__\daily\2024-9-19" />
+      <recent name="D:\Python\algorithm-template\__accepted__\daily\2024-9-17" />
+      <recent name="D:\Python\algorithm-template\__accepted__\daily\2024-9-14" />
     </key>
   </component>
   <component name="RunAnythingCache">
     <myKeys>
       <visibility group="Grunt" flag="true" />
       <visibility group="Gulp" flag="true" />
+      <visibility group="HTTP Requests" flag="true" />
       <visibility group="HTTP 请求" flag="true" />
       <visibility group="Node.js" flag="true" />
+      <visibility group="Run Python file" flag="true" />
+      <visibility group="Run conda command" flag="true" />
+      <visibility group="Run pip command" flag="true" />
       <visibility group="npm" flag="true" />
       <visibility group="yarn" flag="true" />
       <visibility group="最近的项目" flag="true" />
@@ -406,8 +348,8 @@
       <visibility group="运行配置" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="Python.CF1857F">
-    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="CF1983C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm-template" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -416,104 +358,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__accepted__/daily/2024/09/23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371/C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CF1856C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__accepted__/daily/2024-9-14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF1856C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CF1857F" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__accepted__/daily/2024-9-14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF1857F.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CF1956C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__accepted__/daily/2024-9-14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__accepted__/daily/2024-9-14/CF1956C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CF2003A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm-template" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/__accepted__/daily/2024-9-13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__accepted__/daily/2024-9-13/CF2003A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__accepted__/daily/2024/09/23/CF1983C.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -524,11 +374,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CF1857F" />
-        <item itemvalue="Python.CF1856C" />
-        <item itemvalue="Python.CF1956C" />
-        <item itemvalue="Python.C" />
-        <item itemvalue="Python.CF2003A" />
+        <item itemvalue="Python.CF1983C" />
       </list>
     </recent_temporary>
   </component>
@@ -632,7 +478,9 @@
       <workItem from="1725441921292" duration="33413000" />
       <workItem from="1725723001567" duration="984000" />
       <workItem from="1726122998757" duration="63357000" />
-      <workItem from="1726397085324" duration="3908000" />
+      <workItem from="1726397085324" duration="25762000" />
+      <workItem from="1726588994573" duration="81244000" />
+      <workItem from="1727063549457" duration="14506000" />
     </task>
     <task id="LOCAL-00001" summary="Upload: codeforces daily 2024-5-27">
       <option name="closed" value="true" />
@@ -914,7 +762,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725692224836</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Update some changes and upload coding in the past week">
+      <option name="closed" value="true" />
+      <created>1726460163513</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1726460163513</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -939,7 +795,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update Codeforces Round 940 (Div.2) code&#10;&#10;Signed-off-by: helltractor &lt;1664309610@qq.com&gt;" />
     <MESSAGE value="Update algorithm template&#10;&#10;Signed-off-by: helltractor &lt;1664309610@qq.com&gt;" />
     <MESSAGE value="Update algorithm template&#10;&#10;Signed-off-by: helltractor &lt;1664309610@qq.com&gt;" />
     <MESSAGE value="Upload Codeforces Round 944 (Div. 4) code&#10;&#10;Signed-off-by: helltractor &lt;1664309610@qq.com&gt;" />
@@ -964,7 +819,8 @@
     <MESSAGE value="Upload code in the past week" />
     <MESSAGE value="Upload code in the past half-month" />
     <MESSAGE value="Upload code in the past week" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload code in the past week" />
+    <MESSAGE value="Update some changes and upload coding in the past week" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update some changes and upload coding in the past week" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -978,10 +834,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1891C.coverage" NAME="cf_1891C 覆盖结果" MODIFIED="1721287751327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1956C.coverage" NAME="CF1956C 覆盖结果" MODIFIED="1726383337485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-14" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1891C.coverage" NAME="cf_1891C 覆盖结果" MODIFIED="1721287751327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_213B.coverage" NAME="cf_213B 覆盖结果" MODIFIED="1725517110142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-9-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1856C.coverage" NAME="CF1856C 覆盖结果" MODIFIED="1726386058461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-14" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF433C.coverage" NAME="CF433C 覆盖结果" MODIFIED="1726543836635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-17" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1107F.coverage" NAME="CF1107F 覆盖结果" MODIFIED="1726910354871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-20" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1725M.coverage" NAME="cf_1725M 覆盖结果" MODIFIED="1720682726963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$rename.coverage" NAME="rename 覆盖结果" MODIFIED="1725610318784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/rating/1600" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1903A.coverage" NAME="cf_1903A 覆盖结果" MODIFIED="1719898831815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
@@ -992,11 +850,15 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$G.coverage" NAME="G 覆盖结果" MODIFIED="1725384024144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$486E.coverage" NAME="486E 覆盖结果" MODIFIED="1717126302053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1946C.coverage" NAME="cf_1946C 覆盖结果" MODIFIED="1723731451622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-3" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1468J.coverage" NAME="cf_1468J 覆盖结果" MODIFIED="1724212268642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-4" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1901C.coverage" NAME="cf_1901C 覆盖结果" MODIFIED="1721713719785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-4" />
-    <SUITE FILE_PATH="coverage/Algorithm_template$1758C.coverage" NAME="1758C 覆盖结果" MODIFIED="1716818178707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily/1400" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1468J.coverage" NAME="cf_1468J 覆盖结果" MODIFIED="1724212268642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-4" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF729E.coverage" NAME="CF729E 覆盖结果" MODIFIED="1726551969573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-17" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840B.coverage" NAME="cf_1840B 覆盖结果" MODIFIED="1719846240131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
+    <SUITE FILE_PATH="coverage/Algorithm_template$1758C.coverage" NAME="1758C 覆盖结果" MODIFIED="1716818178707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily/1400" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1875C.coverage" NAME="cf_1875C 覆盖结果" MODIFIED="1724155300713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-4" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF281B.coverage" NAME="CF281B 覆盖结果" MODIFIED="1726716538472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1082B.coverage" NAME="CF1082B 覆盖结果" MODIFIED="1726910951889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-21" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1073C.coverage" NAME="CF1073C 覆盖结果" MODIFIED="1727075759668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024/09/23" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$H.coverage" NAME="H 覆盖结果" MODIFIED="1725210607253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 970 (Div. 3)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1267E.coverage" NAME="CF1267E 覆盖结果" MODIFIED="1726240576858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-13" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1723287983398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/nowcode" />
@@ -1005,43 +867,52 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1903B.coverage" NAME="cf_1903B 覆盖结果" MODIFIED="1719897740342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1926F.coverage" NAME="cf_1926F 覆盖结果" MODIFIED="1718851944283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1670C.coverage" NAME="cf_1670C 覆盖结果" MODIFIED="1720680385428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-2" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1881F.coverage" NAME="CF1881F 覆盖结果" MODIFIED="1726630036371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-18" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1899F.coverage" NAME="CF1899F 覆盖结果" MODIFIED="1726466731062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-16" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1362C.coverage" NAME="CF1362C 覆盖结果" MODIFIED="1725680835618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$G2.coverage" NAME="G2 覆盖结果" MODIFIED="1722965822608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 964 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1796D.coverage" NAME="1796D 覆盖结果" MODIFIED="1717079582404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1167E.coverage" NAME="cf_1167E 覆盖结果" MODIFIED="1721292692861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1879D.coverage" NAME="CF1879D 覆盖结果" MODIFIED="1725682775612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_582B.coverage" NAME="cf_582B 覆盖结果" MODIFIED="1720677230655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-2" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1997D.coverage" NAME="CF1997D 覆盖结果" MODIFIED="1726536407435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-17" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1037C.coverage" NAME="cf_1037C 覆盖结果" MODIFIED="1722568132837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1950F.coverage" NAME="cf_1950F 覆盖结果" MODIFIED="1718767046793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1364B.coverage" NAME="CF1364B 覆盖结果" MODIFIED="1725683415059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-2" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$A.coverage" NAME="A 覆盖结果" MODIFIED="1726315507843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$A.coverage" NAME="A 覆盖结果" MODIFIED="1726920069269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1922C.coverage" NAME="cf_1922C 覆盖结果" MODIFIED="1721285030729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1935C.coverage" NAME="cf_1935C 覆盖结果" MODIFIED="1721825523309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-4" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF2003A.coverage" NAME="CF2003A 覆盖结果" MODIFIED="1726328332487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-13" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840A.coverage" NAME="cf_1840A 覆盖结果" MODIFIED="1719846606774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1400G.coverage" NAME="cf_1400G 覆盖结果" MODIFIED="1718937355857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1279D.coverage" NAME="CF1279D 覆盖结果" MODIFIED="1726659270823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-18" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$B2.coverage" NAME="B2 覆盖结果" MODIFIED="1721755929189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 961 (Div. 2)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1849D.coverage" NAME="cf_1849D 覆盖结果" MODIFIED="1719974148168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$luogu_P1144.coverage" NAME="luogu_P1144 覆盖结果" MODIFIED="1724902703315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-5" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$F.coverage" NAME="F 覆盖结果" MODIFIED="1725380480847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 971 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$E.coverage" NAME="E 覆盖结果" MODIFIED="1718119391503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$D__1_.coverage" NAME="D (1) 覆盖结果" MODIFIED="1725721987271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 366" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$D__1_.coverage" NAME="D (1) 覆盖结果" MODIFIED="1726941091914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1862E.coverage" NAME="cf_1862E 覆盖结果" MODIFIED="1719372773390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-4" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$rename__1_.coverage" NAME="rename (1) 覆盖结果" MODIFIED="1725612629606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF735C.coverage" NAME="CF735C 覆盖结果" MODIFIED="1726202231801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-13" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$B__1_.coverage" NAME="B (1) 覆盖结果" MODIFIED="1725106221769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF648C.coverage" NAME="CF648C 覆盖结果" MODIFIED="1727078121155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024/09/23" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$B__1_.coverage" NAME="B (1) 覆盖结果" MODIFIED="1726930542897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_976C.coverage" NAME="cf_976C 覆盖结果" MODIFIED="1718674848484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_template$.coverage" NAME=" 覆盖结果" MODIFIED="1717242898637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1883F.coverage" NAME="cf_1883F 覆盖结果" MODIFIED="1719288359006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-6-4" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$E__1_.coverage" NAME="E (1) 覆盖结果" MODIFIED="1726941963658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF615B.coverage" NAME="CF615B 覆盖结果" MODIFIED="1726812997746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-20" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1843E.coverage" NAME="1843E 覆盖结果" MODIFIED="1716954033026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1648C__1_.coverage" NAME="CF1648C (1) 覆盖结果" MODIFIED="1727085116011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024/09/23" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$luogu_P5019.coverage" NAME="luogu_P5019 覆盖结果" MODIFIED="1721537681944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1983C.coverage" NAME="CF1983C 覆盖结果" MODIFIED="1727086641703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024/09/23" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1873F.coverage" NAME="cf_1873F 覆盖结果" MODIFIED="1717412643710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/daily/period/2024-6-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1077C.coverage" NAME="cf_1077C 覆盖结果" MODIFIED="1718675139996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1920E.coverage" NAME="CF1920E 覆盖结果" MODIFIED="1726150952344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-12" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1883C.coverage" NAME="CF1883C 覆盖结果" MODIFIED="1726152128851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-12" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840D.coverage" NAME="cf_1840D 覆盖结果" MODIFIED="1719844286331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_898D.coverage" NAME="cf_898D 覆盖结果" MODIFIED="1717558772737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/daily/period/2024-6-1" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$D.coverage" NAME="D 覆盖结果" MODIFIED="1726318515512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$D.coverage" NAME="D 覆盖结果" MODIFIED="1726922044898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1822F.coverage" NAME="cf_1822F 覆盖结果" MODIFIED="1723009512297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF682C.coverage" NAME="CF682C 覆盖结果" MODIFIED="1726305728262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-13" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$test.coverage" NAME="test 覆盖结果" MODIFIED="1725119958227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__" />
@@ -1050,20 +921,24 @@
     <SUITE FILE_PATH="coverage/Algorithm_template$C.coverage" NAME="C 覆盖结果" MODIFIED="1718117172566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_1926G.coverage" NAME="cf_1926G 覆盖结果" MODIFIED="1718848331861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily/period/2024-6-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_437C.coverage" NAME="cf_437C 覆盖结果" MODIFIED="1725251812337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-9-1" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF852C.coverage" NAME="CF852C 覆盖结果" MODIFIED="1726812811963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-20" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$LGP1041.coverage" NAME="LGP1041 覆盖结果" MODIFIED="1726315010448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-13" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$C.coverage" NAME="C 覆盖结果" MODIFIED="1726328518917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$C.coverage" NAME="C 覆盖结果" MODIFIED="1726921291821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1902D.coverage" NAME="cf_1902D 覆盖结果" MODIFIED="1724298300175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-4" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1929C.coverage" NAME="1929C 覆盖结果" MODIFIED="1716965784419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily/1400" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$abc_359D.coverage" NAME="abc_359D 覆盖结果" MODIFIED="1722947361167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-2" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1905C.coverage" NAME="cf_1905C 覆盖结果" MODIFIED="1722570047308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-1" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF1919D.coverage" NAME="CF1919D 覆盖结果" MODIFIED="1726735560072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-19" />
     <SUITE FILE_PATH="coverage/Algorithm_template$B.coverage" NAME="B 覆盖结果" MODIFIED="1718116911839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1840C.coverage" NAME="cf_1840C 覆盖结果" MODIFIED="1719845018911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-1" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1372B.coverage" NAME="cf_1372B 覆盖结果" MODIFIED="1721711879204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-4" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$B.coverage" NAME="B 覆盖结果" MODIFIED="1726315884845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$E.coverage" NAME="E 覆盖结果" MODIFIED="1726324163904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 371" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF628B.coverage" NAME="CF628B 覆盖结果" MODIFIED="1726460675061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-16" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$B.coverage" NAME="B 覆盖结果" MODIFIED="1726920489582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$E.coverage" NAME="E 覆盖结果" MODIFIED="1726926551474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 372" />
     <SUITE FILE_PATH="coverage/Algorithm_template$A.coverage" NAME="A 覆盖结果" MODIFIED="1718116635379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1110F.coverage" NAME="cf_1110F 覆盖结果" MODIFIED="1723011448220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1650G.coverage" NAME="cf_1650G 覆盖结果" MODIFIED="1724901725978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-5" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF340E.coverage" NAME="CF340E 覆盖结果" MODIFIED="1726659309108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-18" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$comb.coverage" NAME="comb 覆盖结果" MODIFIED="1718937276215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
     <SUITE FILE_PATH="coverage/Algorithm_template$608B.coverage" NAME="608B 覆盖结果" MODIFIED="1716864259532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1292A.coverage" NAME="cf_1292A 覆盖结果" MODIFIED="1723726819038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-8-3" />
@@ -1080,6 +955,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1893B.coverage" NAME="cf_1893B 覆盖结果" MODIFIED="1721290398935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-7-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF1857F.coverage" NAME="CF1857F 覆盖结果" MODIFIED="1726387511913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-14" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_593B.coverage" NAME="cf_593B 覆盖结果" MODIFIED="1725609763312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-9-1" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF641C.coverage" NAME="CF641C 覆盖结果" MODIFIED="1726468007057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-16" />
     <SUITE FILE_PATH="coverage/Algorithm_template$H1.coverage" NAME="H1 覆盖结果" MODIFIED="1718125876120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 952 (Div. 4)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$.coverage" NAME=" 覆盖结果" MODIFIED="1724417859944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math/prime" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1343C.coverage" NAME="1343C 覆盖结果" MODIFIED="1716790010496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily" />
@@ -1088,9 +964,10 @@
     <SUITE FILE_PATH="coverage/Algorithm_Template$perm.coverage" NAME="perm 覆盖结果" MODIFIED="1718937610685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math" />
     <SUITE FILE_PATH="coverage/Algorithm_template$1772D.coverage" NAME="1772D 覆盖结果" MODIFIED="1716814196732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/codeforces/Daily/1400" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_1759E.coverage" NAME="cf_1759E 覆盖结果" MODIFIED="1719196718778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/daily" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$CF309A.coverage" NAME="CF309A 覆盖结果" MODIFIED="1726735557037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__accepted__/daily/2024-9-19" />
     <SUITE FILE_PATH="coverage/Algorithm_template$cf_985C.coverage" NAME="cf_985C 覆盖结果" MODIFIED="1717470230288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contests/daily/period/2024-6-1" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$C__1_.coverage" NAME="C (1) 覆盖结果" MODIFIED="1725108871096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/atcoder/AtCoder Beginner Contest 369" />
-    <SUITE FILE_PATH="coverage/Algorithm_Template$A__1_.coverage" NAME="A (1) 覆盖结果" MODIFIED="1723302496587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 965 (Div. 2)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$C__1_.coverage" NAME="C (1) 覆盖结果" MODIFIED="1726937972567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)" />
+    <SUITE FILE_PATH="coverage/Algorithm_Template$A__1_.coverage" NAME="A (1) 覆盖结果" MODIFIED="1726930098920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__contest__/codeforces/Codeforces Round 974 (Div. 3)" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$cf_760B.coverage" NAME="cf_760B 覆盖结果" MODIFIED="1725547549055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-5-3" />
     <SUITE FILE_PATH="coverage/Algorithm_Template$CF858D.coverage" NAME="CF858D 覆盖结果" MODIFIED="1725688916801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__daily__/period/2024-9-1" />
   </component>
