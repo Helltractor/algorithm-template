@@ -18,6 +18,8 @@
 * [CF641C](https://codeforces.com/contest/641/problem/C)
 
 ### Data Structure
+#### Tree
+* [CF436F]()
 
 ### Dynamic Programming
 #### Waiting to classify
@@ -31,11 +33,12 @@
 ### Greedy
 #### Waiting to classify
 * [CF852C](https://codeforces.com/contest/852/problem/C)
+* [CF761D](https://codeforces.com/contest/761/problem/D)
 
 ### Interactive
 #### Waiting to classify
 * [CF744B](https://codeforces.com/contest/744/problem/B)
-* [CF1063C](https://codeforces.com/contest/1063/problem/C)wdddd
+* [CF1063C](https://codeforces.com/contest/1063/problem/C)
 
 ### Math
 #### Waiting to classify
@@ -67,11 +70,3 @@
 ### String
 
 ### Waiting to classify
-
-```mermaid
-
-    graph TD
-    A[材料数据收集] --> B[数据预处理] --> C[机器学习模型构建]
-    D[机器学习筛选] --> E[候选材料筛选] --> F[第一性原理计算验证]
-    G[结果分析与应用前景] --> H[潜在应用讨论] --> I[未来研究方向]
-```

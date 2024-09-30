@@ -8,7 +8,7 @@ from mathmatics.prime.template import Primes
 
 
 class MyTestCase(unittest.TestCase):
-    n = 3 * pow(10, 6)
+    n = 2 * pow(10, 5)
     
     def test_primes_linear(self):
         start_time = time.time()

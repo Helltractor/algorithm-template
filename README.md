@@ -58,6 +58,7 @@
 
 - [ACodeDaily](https://www.acodedaily.com/)
 - [灵茶の试炼](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2&_t=1709176148789&u=2c8e1d24aa7b42bb9526f9bc765369cd)
+- [每日羊蹄](https://github.com/Yawn-Sean/Daily_CF_Problems)
 
 ### LeetCode
 
